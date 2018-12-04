@@ -4,24 +4,25 @@ import os.path
 import requests
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
-filename = os.path.abspath('./data/app_store_search.json')
-app_store_search = {
+apps_data_filename = os.path.abspath('./data/app_store_results.json')
+whitelist_filename = os.path.abspath('./app_store/whitelist.json')
+
+app_store = {
     'results': [],
     'resultCount': 0
 }
 
+with open(whitelist_filename, 'r') as f:
+    whitelist = json.load(f)
+
 
 def main():
     origin = 'https://itunes.apple.com'
-    payload = {
-        'country': 'SG',
-        'term': 'singapore government',
-        'media': 'software',
-        'limit': '50'
-    }
+    wl_arr = whitelist.keys()
+    identifiers = ','.join(wl_arr)
+    payload_str = 'id=%s&country=SG&entity=software' % identifiers
 
-    r = requests.get(origin + '/search', params=payload)
-    app_store_search['resultCount'] = r.json()['resultCount']
+    r = requests.get(origin + '/lookup', params=payload_str)
 
     for o in r.json()['results']:
         parse(o)
@@ -30,6 +31,9 @@ def main():
 
 
 def parse(o):
+    if 'trackName' not in o:
+        return
+
     item = {
         'appName': o['trackName'],
         'appViewUrl': o['trackViewUrl'],
@@ -52,7 +56,8 @@ def parse(o):
         # 'downloads':
     }
 
-    app_store_search['results'].append(item)
+    app_store['results'].append(item)
+    app_store['resultCount'] += 1
 
 
 def set_v(key, row, string_type=True):
@@ -64,10 +69,10 @@ def set_v(key, row, string_type=True):
 
 
 def closed():
-    with open(filename, 'w') as f:
-        f.write(json.dumps(app_store_search))
+    with open(apps_data_filename, 'w') as f:
+        f.write(json.dumps(app_store))
 
-        logging.info('Saved file %s' % filename)
+        logging.info('Saved file %s' % apps_data_filename)
 
 
 if __name__ == '__main__':
