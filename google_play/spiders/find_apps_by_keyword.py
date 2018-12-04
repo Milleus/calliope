@@ -5,10 +5,10 @@ import requests
 import scrapy
 
 
-class GooglePlaySearch(scrapy.Spider):
-    name = 'google_play_search'
-    filename = os.path.abspath('./data/google_play_search.json')
-    google_play_search = {
+class FindAppsByKeyword(scrapy.Spider):
+    name = 'find_apps_by_keyword'
+    filename = os.path.abspath('./data/google_play_results.json')
+    google_play = {
         'results': [],
         'resultCount': 0
     }
@@ -55,11 +55,11 @@ class GooglePlaySearch(scrapy.Spider):
             'downloads': response.css('.hAyfc:nth-child(3) span div span::text').extract_first(),
         }
 
-        self.google_play_search['results'].append(item)
-        self.google_play_search['resultCount'] += 1
+        self.google_play['results'].append(item)
+        self.google_play['resultCount'] += 1
 
     def closed(self, reason):
         with open(self.filename, 'w') as f:
-            f.write(json.dumps(self.google_play_search))
+            f.write(json.dumps(self.google_play))
 
         self.logger.info('Saved file %s' % self.filename)

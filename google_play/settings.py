@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for scylla project
+# Scrapy settings for google_play project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'scylla'
+BOT_NAME = 'google_play'
 
-SPIDER_MODULES = ['scylla.spiders']
-NEWSPIDER_MODULE = 'scylla.spiders'
+SPIDER_MODULES = ['google_play.spiders']
+NEWSPIDER_MODULE = 'google_play.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'scylla (+http://www.yourdomain.com)'
+#USER_AGENT = 'google_play (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'scylla.middlewares.ScyllaSpiderMiddleware': 543,
+#    'google_play.middlewares.GooglePlaySpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'scylla.middlewares.ScyllaDownloaderMiddleware': 543,
+#    'google_play.middlewares.GooglePlayDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'scylla.pipelines.ScyllaPipeline': 300,
+#    'google_play.pipelines.GooglePlayPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
