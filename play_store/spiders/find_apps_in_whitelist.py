@@ -5,26 +5,37 @@ import requests
 import scrapy
 
 
-class FindAppsByKeyword(scrapy.Spider):
-    name = 'find_apps_by_keyword'
-    filename = os.path.abspath('./data/google_play_results.json')
-    google_play = {
+class FindAppsByWhitelist(scrapy.Spider):
+    name = 'find_apps_in_whitelist'
+    op_file = os.path.abspath('./play_store/data/play_store_results.json')
+    wl_file = os.path.abspath('./play_store/data/whitelist.json')
+
+    play_store = {
         'results': [],
         'resultCount': 0
     }
 
+    with open(wl_file, 'r') as f:
+        whitelist = json.load(f)
+
     def start_requests(self):
+        app_obj = self.whitelist.pop('whitelistedApps', None)
+        app_urls = app_obj.values() if app_obj is not None else []
+        dev_urls = self.whitelist.values()
+
+        for u in dev_urls:
+            yield scrapy.Request(url=u, callback=self.parse_apps_by_dev)
+
+        for u in app_urls:
+            yield scrapy.Request(url=u, callback=self.parse)
+
+    def parse_apps_by_dev(self, response):
         origin = 'https://play.google.com'
-        payload = {'q': '.gov.sg', 'c': 'apps'}
+        paths = response.css(
+            'a[href^="/store/apps/details"].title::attr(href)').extract()
 
-        r = requests.get(origin + '/store/search', params=payload)
-        w = html.fromstring(r.content)
-
-        app_xpath = '//a[contains(@href,"store/apps/details?id=") and @class="title"]/@href'
-        pnames = w.xpath(app_xpath)
-
-        for pname in pnames:
-            yield scrapy.Request(url=origin + pname, callback=self.parse)
+        for p in paths:
+            yield scrapy.Request(url=origin + p, callback=self.parse)
 
     def parse(self, response):
         aur = response.css('.BHMmbe::text').extract_first()
@@ -55,11 +66,11 @@ class FindAppsByKeyword(scrapy.Spider):
             'downloads': response.css('.hAyfc:nth-child(3) span div span::text').extract_first(),
         }
 
-        self.google_play['results'].append(item)
-        self.google_play['resultCount'] += 1
+        self.play_store['results'].append(item)
+        self.play_store['resultCount'] += 1
 
     def closed(self, reason):
-        with open(self.filename, 'w') as f:
-            f.write(json.dumps(self.google_play))
+        with open(self.op_file, 'w') as f:
+            f.write(json.dumps(self.play_store))
 
-        self.logger.info('Saved file %s' % self.filename)
+        self.logger.info('Saved file %s' % self.op_file)
