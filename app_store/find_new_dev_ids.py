@@ -5,27 +5,27 @@ import requests
 import time
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
-keywords_filename = os.path.abspath('./keywords.data')
-blacklist_filename = os.path.abspath('./app_store/blacklist.json')
-unverified_filename = os.path.abspath('./app_store/unverified.json')
-whitelist_filename = os.path.abspath('./app_store/whitelist.json')
+bl_file = os.path.abspath('./app_store/data/blacklist.json')
+kw_file = os.path.abspath('./keywords.data')
+op_file = os.path.abspath('./app_store/data/unverified.json')
+wl_file = os.path.abspath('./app_store/data/whitelist.json')
 
 app_store = {
     'results': {},
     'resultCount': 0
 }
 
-with open(blacklist_filename, 'r') as f:
+with open(bl_file, 'r') as f:
     blacklist = json.load(f)
 
-with open(whitelist_filename, 'r') as f:
+with open(wl_file, 'r') as f:
     whitelist = json.load(f)
 
 
 def main():
     origin = 'https://itunes.apple.com'
 
-    for l in open(keywords_filename, 'r'):
+    for l in open(kw_file, 'r'):
         p = get_params(l)
         r = requests.get(origin + '/search', params=p)
 
@@ -47,23 +47,23 @@ def get_params(keyword):
     }
 
 
-def parse(o):
-    dev_id = str(o['artistId'])
+def parse(obj):
+    dev_id = str(obj['artistId'])
 
     if dev_id not in whitelist and dev_id not in blacklist and dev_id not in app_store['results']:
         try:
-            app_store['results'][dev_id] = o['artistViewUrl']
+            app_store['results'][dev_id] = obj['artistViewUrl']
             app_store['resultCount'] += 1
-            logging.info('Developer id not found %s' % dev_id)
+            logging.info('New developer id found %s' % dev_id)
         except:
-            logging.error('Error in record %s' % o)
+            logging.error('Error occurred %s' % obj)
 
 
 def closed():
-    with open(unverified_filename, 'w') as f:
+    with open(op_file, 'w') as f:
         f.write(json.dumps(app_store))
 
-        logging.info('Saved file %s' % unverified_filename)
+        logging.info('Saved file %s' % op_file)
 
 
 if __name__ == '__main__':

@@ -5,19 +5,21 @@ import requests
 import time
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
-keywords_filename = os.path.abspath('./keywords.data')
-all_dev_ids_filename = os.path.abspath('./app_store/all_dev_ids.json')
+kw_file = os.path.abspath('./keywords.data')
+op_file = os.path.abspath('./app_store/data/all_dev_ids.json')
 
 app_store = {
     'results': {},
-    'resultCount': 0
+    'resultCount': 0,
+    'duplicateCount': 0,
+    'totalCount': 0
 }
 
 
 def main():
     origin = 'https://itunes.apple.com'
 
-    for l in open(keywords_filename, 'r'):
+    for l in open(kw_file, 'r'):
         p = get_params(l)
         r = requests.get(origin + '/search', params=p)
 
@@ -39,19 +41,23 @@ def get_params(keyword):
     }
 
 
-def parse(o):
-    dev_id = str(o['artistId'])
+def parse(obj):
+    dev_id = str(obj['artistId'])
 
     if dev_id not in app_store['results']:
-        app_store['results'][dev_id] = o['artistViewUrl']
+        app_store['results'][dev_id] = obj['artistViewUrl']
         app_store['resultCount'] += 1
+    else:
+        app_store['duplicateCount'] += 1
+
+    app_store['totalCount'] += 1
 
 
 def closed():
-    with open(all_dev_ids_filename, 'w') as f:
+    with open(op_file, 'w') as f:
         f.write(json.dumps(app_store))
 
-        logging.info('Saved file %s' % all_dev_ids_filename)
+        logging.info('Saved file %s' % op_file)
 
 
 if __name__ == '__main__':
