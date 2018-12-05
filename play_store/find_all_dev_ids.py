@@ -1,0 +1,63 @@
+from lxml import html
+import json
+import logging
+import os.path
+import requests
+
+logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
+kw_file = os.path.abspath('./keywords.data')
+op_file = os.path.abspath('./play_store/data/all_dev_ids.json')
+
+play_store = {
+    'results': {},
+    'resultCount': 0,
+    'duplicateCount': 0,
+    'totalCount': 0
+}
+
+
+def main():
+    origin = 'https://play.google.com'
+
+    for l in open(kw_file, 'r'):
+        p = get_params(l)
+        r = requests.get(origin + '/store/search', params=p)
+        w = html.fromstring(r.content)
+
+        dev_xpath = '//a[contains(@href,"store/apps/dev")]/@href'
+        dev_paths = w.xpath(dev_xpath)
+
+        for p in dev_paths:
+            parse(origin, p)
+
+    closed()
+
+
+def get_params(keyword):
+    return {
+        'c': 'apps',
+        'q': keyword
+    }
+
+
+def parse(origin, path):
+    dev_id = path.split('id=')[1]
+
+    if dev_id not in play_store['results']:
+        play_store['results'][dev_id] = origin + path
+        play_store['resultCount'] += 1
+    else:
+        play_store['duplicateCount'] += 1
+
+    play_store['totalCount'] += 1
+
+
+def closed():
+    with open(op_file, 'w') as f:
+        f.write(json.dumps(play_store))
+
+        logging.info('Saved file %s' % op_file)
+
+
+if __name__ == '__main__':
+    main()
