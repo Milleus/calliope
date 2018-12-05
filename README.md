@@ -21,21 +21,33 @@ With a white list of developer ids, we can now find all the mobile applications 
 
 ## Commands
 
+### App Store
+
 - `python app_store/find_all_dev_ids.py`
 
-  Calls App Store API with all keywords in keywords.data and returns a list of developer ids. Results are stored in app_store/all_dev_ids.json. This can be modified to return other information app related information.
+  Calls App Store API with all keywords in keywords.data and returns a list of developer ids. Results are stored in app_store/data/all_dev_ids.json. This can be modified to return other information app related information.
 
 - `python app_store/find_new_dev_ids.py`
 
-  Calls App Store API with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in app_store/unverified.json.
+  Calls App Store API with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in app_store/data/unverified.json.
 
-- `python app_store/find_apps_by_whitelist.py`
+- `python app_store/find_apps_in_whitelist.py`
 
-  Calls App Store API with developer/app ids in whitelist and returns a list of mobile application data. Results are stored in data/app_store_results.json.
+  Calls App Store API with developer/app ids in whitelist and returns a list of mobile application data. Results are stored in app_store/data/app_store_results.json.
 
-- `scrapy crawl find_apps_by_keyword`
+### Play Store
 
-  Calls Google Play search with keyword (currently hardcoded), extract app urls, crawl each app url, and return a list of mobile application data. Results are stored in data/google_play_results.json.
+- `python play_store/find_all_dev_ids.py`
+
+  Calls Google Play search with all keywords in keywords.data and returns a list of developer ids. Results are stored in play_store/data/all_dev_ids.json. This can be modified to return other information app related information.
+
+- `python app_store/find_new_dev_ids.py`
+
+  Calls Google Play search with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in play_store/data/unverified.json.
+
+- `scrapy crawl find_apps_in_whitelist`
+
+  Crawl Google Play developer/app pages with developer/app ids in whitelist and returns a list of mobile application data. Results are stored in play_store/data/play_store_results.json.
 
 ## Resources
 
