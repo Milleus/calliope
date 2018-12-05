@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for google_play project
+# Scrapy settings for play_store project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'google_play'
+BOT_NAME = 'play_store'
 
-SPIDER_MODULES = ['google_play.spiders']
-NEWSPIDER_MODULE = 'google_play.spiders'
+SPIDER_MODULES = ['play_store.spiders']
+NEWSPIDER_MODULE = 'play_store.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'google_play (+http://www.yourdomain.com)'
+#USER_AGENT = 'play_store (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'google_play.middlewares.GooglePlaySpiderMiddleware': 543,
+#    'play_store.middlewares.PlayStoreSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'google_play.middlewares.GooglePlayDownloaderMiddleware': 543,
+#    'play_store.middlewares.PlayStoreDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'google_play.pipelines.GooglePlayPipeline': 300,
+#    'play_store.pipelines.PlayStorePipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

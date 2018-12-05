@@ -8,7 +8,7 @@
 import scrapy
 
 
-class GooglePlayItem(scrapy.Item):
+class PlayStoreItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
