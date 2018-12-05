@@ -1,5 +1,4 @@
 {
-  "1091284485": "https://itunes.apple.com/sg/developer/civil-service-club-singapore/id1091284485?uo=4",
   "423739103": "https://itunes.apple.com/sg/developer/peoples-association/id423739103?uo=4",
   "1251778080": "https://itunes.apple.com/sg/developer/civil-service-college/id1251778080?uo=4",
   "410480187": "https://itunes.apple.com/sg/developer/singapore-polytechnic/id410480187?uo=4",
@@ -46,11 +45,25 @@
   "1256315704": "https://itunes.apple.com/sg/developer/skillsfuturesg/id1256315704?uo=4",
   "979139703": "https://itunes.apple.com/sg/developer/hclinsys-sg/id979139703?uo=4",
   "535117754": "https://itunes.apple.com/sg/developer/sentosa-leisure-management-pte-ltd/id535117754?uo=4",
+  "1062502467": "https://itunes.apple.com/sg/developer/singapore-customs/id1062502467?uo=4",
+  "395642269": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
+  "440171324": "https://itunes.apple.com/sg/developer/singapore-police-force/id440171324?ign-mpt=uo%3D4",
+  "685277621": "https://itunes.apple.com/sg/developer/ite-college-east/id685277621?uo=4",
+  "536157349": "https://itunes.apple.com/sg/developer/cck/id536157349?uo=4",
 
-  "1257681284": "https://itunes.apple.com/sg/app/peoplego/id1257681284?mt=8",
-  "498223166": "https://itunes.apple.com/sg/app/battle-for-singapore/id498223166?mt=8",
-  "827595244": "https://itunes.apple.com/sg/app/activesg/id827595244?mt=8",
-  "1384915584": "https://itunes.apple.com/sg/app/activewallet/id1384915584?mt=8",
-  "1312348599": "https://itunes.apple.com/sg/app/eventtech-for-gov-sg/id1312348599?mt=8",
-  "372964124": "https://itunes.apple.com/sg/app/careers-gov/id372964124?mt=8"
+  "whitelistedApps": {
+    "1257681284": "https://itunes.apple.com/sg/app/peoplego/id1257681284?mt=8",
+    "827595244": "https://itunes.apple.com/sg/app/activesg/id827595244?mt=8",
+    "1384915584": "https://itunes.apple.com/sg/app/activewallet/id1384915584?mt=8",
+    "1312348599": "https://itunes.apple.com/sg/app/eventtech-for-gov-sg/id1312348599?mt=8",
+    "372964124": "https://itunes.apple.com/sg/app/careers-gov/id372964124?mt=8",
+    "1144430645": "https://itunes.apple.com/sg/app/elearn-lms/id1144430645?mt=8",
+    "1298920805": "https://itunes.apple.com/sg/app/singhealth-elearning/id1298920805?mt=8",
+    "498223166": "https://itunes.apple.com/sg/app/battle-for-singapore/id498223166?mt=8",
+    "1216505592": "https://itunes.apple.com/sg/app/central-quest/id1216505592?mt=8",
+    "1127236778": "https://itunes.apple.com/sg/app/campus-alive/id1127236778?mt=8",
+    "1276547054": "https://itunes.apple.com/sg/app/ite-vr-garden/id1276547054?mt=8",
+    "1437484616": "https://itunes.apple.com/sg/app/ar-prototyping/id1437484616?mt=8",
+    "1350616548": "https://itunes.apple.com/sg/app/cc-seit-vr-tour/id1350616548?mt=8"
+  }
 }
