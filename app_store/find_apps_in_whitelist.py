@@ -1,6 +1,8 @@
+import copy
 import json
 import logging
 import os.path
+import re
 import requests
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
@@ -19,9 +21,10 @@ with open(wl_file, 'r') as f:
 def main():
     origin = 'https://itunes.apple.com'
 
-    app_obj = whitelist.pop('whitelistedApps', None)
-    app_ids = app_obj.keys() if app_obj is not None else []
-    dev_ids = whitelist.keys()
+    wl_copy = copy.deepcopy(whitelist)
+    wl_apps = wl_copy.pop('whitelistedApps', None)
+    app_ids = wl_apps.keys() if wl_apps is not None else []
+    dev_ids = wl_copy.keys()
 
     ids = ','.join(dev_ids + app_ids)
     p = 'id=%s&country=SG&entity=software' % ids
@@ -39,6 +42,7 @@ def parse(obj):
         return
 
     item = {
+        'agencyFullName': find_agency_full_name(obj),
         'appName': obj['trackName'],
         'appViewUrl': obj['trackViewUrl'],
 
@@ -62,6 +66,24 @@ def parse(obj):
 
     app_store['results'].append(item)
     app_store['resultCount'] += 1
+
+
+def find_agency_full_name(obj):
+    dev_url = obj['artistViewUrl']
+    app_url = obj['trackViewUrl']
+
+    dev_id = re.findall(r'id(\d+)[?]', dev_url)[0]
+    app_id = re.findall(r'id(\d+)[?]', app_url)[0]
+
+    agency_full_name = None
+
+    if dev_id in whitelist:
+        agency_full_name = whitelist[dev_id]['agencyFullName']
+
+    if app_id in whitelist['whitelistedApps']:
+        agency_full_name = whitelist['whitelistedApps'][app_id]['agencyFullName']
+
+    return agency_full_name
 
 
 def set_v(key, row, string_type=True):

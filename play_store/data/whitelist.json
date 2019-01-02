@@ -1,61 +1,225 @@
 {
-  "Accountant-General's+Department": "https://play.google.com/store/apps/developer?id=Accountant-General's+Department",
-  "ACCOUNTING+AND+CORPORATE+REGULATORY+AUTHORITY": "https://play.google.com/store/apps/developer?id=ACCOUNTING+AND+CORPORATE+REGULATORY+AUTHORITY",
-  "Agri-Food+%26+Veterinary+Authority+of+Singapore": "https://play.google.com/store/apps/developer?id=Agri-Food+%26+Veterinary+Authority+of+Singapore",
-  "Building+And+Construction+Authority": "https://play.google.com/store/apps/developer?id=Building+And+Construction+Authority",
-  "CEA": "https://play.google.com/store/apps/developer?id=CEA",
-  "Civil+Aviation+Authority+of+Singapore": "https://play.google.com/store/apps/developer?id=Civil+Aviation+Authority+of+Singapore",
-  "Civil+Service+College+Singapore": "https://play.google.com/store/apps/developer?id=Civil+Service+College+Singapore",
-  "CPF+Board": "https://play.google.com/store/apps/developer?id=CPF+Board",
-  "Government+Technology+Agency": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency",
-  "HCLINSYS+SG": "https://play.google.com/store/apps/developer?id=HCLINSYS+SG",
-  "Health+Promotion+Board": "https://play.google.com/store/apps/developer?id=Health+Promotion+Board",
-  "Housing+%26+Development+Board,+Singapore": "https://play.google.com/store/apps/developer?id=Housing+%26+Development+Board,+Singapore",
-  "Immigration+%26+Checkpoints+Authority": "https://play.google.com/store/apps/developer?id=Immigration+%26+Checkpoints+Authority",
-  "Info-communications+Media+Development+Authority": "https://play.google.com/store/apps/developer?id=Info-communications+Media+Development+Authority",
-  "ITE+College+Central": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
-  "JTC+Corporation": "https://play.google.com/store/apps/developer?id=JTC+Corporation",
-  "Land+Transport+Authority": "https://play.google.com/store/apps/developer?id=Land+Transport+Authority",
-  "Maritime+and+Port+Authority+of+Singapore": "https://play.google.com/store/apps/developer?id=Maritime+and+Port+Authority+of+Singapore",
-  "Meteorological+Service+Singapore": "https://play.google.com/store/apps/developer?id=Meteorological+Service+Singapore",
-  "Ministry+of+Education+(Singapore)": "https://play.google.com/store/apps/developer?id=Ministry+of+Education+(Singapore)",
-  "Ministry+of+Foreign+Affairs": "https://play.google.com/store/apps/developer?id=Ministry+of+Foreign+Affairs",
-  "Ministry+of+Home+Affairs+(Singapore)": "https://play.google.com/store/apps/developer?id=Ministry+of+Home+Affairs+(Singapore)",
-  "Ministry+of+Manpower": "https://play.google.com/store/apps/developer?id=Ministry+of+Manpower",
-  "Ministry+of+National+Development+(Singapore)": "https://play.google.com/store/apps/developer?id=Ministry+of+National+Development+(Singapore)",
-  "Monetary+Authority+of+Singapore": "https://play.google.com/store/apps/developer?id=Monetary+Authority+of+Singapore",
-  "MSF+Singapore": "https://play.google.com/store/apps/developer?id=MSF+Singapore",
-  "Nanyang+Polytechnic": "https://play.google.com/store/apps/developer?id=Nanyang+Polytechnic",
-  "National+Environment+Agency": "https://play.google.com/store/apps/developer?id=National+Environment+Agency",
-  "National+Library+Board,+Singapore": "https://play.google.com/store/apps/developer?id=National+Library+Board,+Singapore",
-  "National+Parks+Board": "https://play.google.com/store/apps/developer?id=National+Parks+Board",
-  "Ngee+Ann+Polytechnic": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-  "NYP+SIDM+SGCC": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-  "People's+Association": "https://play.google.com/store/apps/developer?id=People's+Association",
-  "PUB,+Singapore's+National+Water+Agency": "https://play.google.com/store/apps/developer?id=PUB,+Singapore's+National+Water+Agency",
-  "Republic+Polytechnic+Singapore": "https://play.google.com/store/apps/developer?id=Republic+Polytechnic+Singapore",
-  "School+of+Engineering,+Ngee+Ann+Polytechnic": "https://play.google.com/store/apps/developer?id=School+of+Engineering,+Ngee+Ann+Polytechnic",
-  "Sentosa+Leisure+Management": "https://play.google.com/store/apps/developer?id=Sentosa+Leisure+Management",
-  "SIDM,+Nanyang+Polytechnic": "https://play.google.com/store/apps/developer?id=SIDM,+Nanyang+Polytechnic",
-  "Singapore+Civil+Defence+Force": "https://play.google.com/store/apps/developer?id=Singapore+Civil+Defence+Force",
-  "Singapore+Customs": "https://play.google.com/store/apps/developer?id=Singapore+Customs",
-  "Singapore+Department+of+Statistics": "https://play.google.com/store/apps/developer?id=Singapore+Department+of+Statistics",
-  "Singapore+Health+Services": "https://play.google.com/store/apps/developer?id=Singapore+Health+Services",
-  "Singapore+Land+Authority": "https://play.google.com/store/apps/developer?id=Singapore+Land+Authority",
-  "Singapore+Police+Force": "https://play.google.com/store/apps/developer?id=Singapore+Police+Force",
-  "Singapore+Polytechnic": "https://play.google.com/store/apps/developer?id=Singapore+Polytechnic",
-  "SkillsFuture+Singapore": "https://play.google.com/store/apps/developer?id=SkillsFuture+Singapore",
-  "SportSG": "https://play.google.com/store/apps/developer?id=SportSG",
-  "State+Courts+Singapore": "https://play.google.com/store/apps/developer?id=State+Courts+Singapore",
-  "Temasek+Polytechnic": "https://play.google.com/store/apps/developer?id=Temasek+Polytechnic",
-  "Urban+Redevelopment+Authority+(URA)": "https://play.google.com/store/apps/developer?id=Urban+Redevelopment+Authority+(URA)",
+  "Accountant-General%27s+Department": {
+    "agencyFullName": "MINISTRY OF FINANCE",
+    "url": "https://play.google.com/store/apps/developer?id=Accountant-General%27s+Department"
+  },
+  "Singapore+Customs": {
+    "agencyFullName": "MINISTRY OF FINANCE",
+    "url": "https://play.google.com/store/apps/developer?id=Singapore+Customs"
+  },
+  "ACCOUNTING+AND+CORPORATE+REGULATORY+AUTHORITY": {
+    "agencyFullName": "ACCOUNTING AND CORPORATE REGULATORY AUTHORITY",
+    "url": "https://play.google.com/store/apps/developer?id=ACCOUNTING+AND+CORPORATE+REGULATORY+AUTHORITY"
+  },
+  "Agri-Food+%26+Veterinary+Authority+of+Singapore": {
+    "agencyFullName": "AGRI-FOOD & VETERINARY AUTHORITY OF SINGAPORE",
+    "url": "https://play.google.com/store/apps/developer?id=Agri-Food+%26+Veterinary+Authority+of+Singapore"
+  },
+  "Building+And+Construction+Authority": {
+    "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
+    "url": "https://play.google.com/store/apps/developer?id=Building+And+Construction+Authority"
+  },
+  "CEA": {
+    "agencyFullName": "COUNCIL FOR ESTATE AGENCIES",
+    "url": "https://play.google.com/store/apps/developer?id=CEA"
+  },
+  "Civil+Aviation+Authority+of+Singapore": {
+    "agencyFullName": "CIVIL AVIATION AUTHORITY OF SINGAPORE",
+    "url": "https://play.google.com/store/apps/developer?id=Civil+Aviation+Authority+of+Singapore"
+  },
+  "Civil+Service+College+Singapore": {
+    "agencyFullName": "CIVIL SERVICE COLLEGE",
+    "url": "https://play.google.com/store/apps/developer?id=Civil+Service+College+Singapore"
+  },
+  "CPF+Board": {
+    "agencyFullName": "CENTRAL PROVIDENT FUND BOARD",
+    "url": "https://play.google.com/store/apps/developer?id=CPF+Board"
+  },
+  "Government+Technology+Agency": {
+    "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
+    "url": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency"
+  },
+  "HCLINSYS+SG": {
+    "agencyFullName": "MAJLIS UGAMA ISLAM, SINGAPURA",
+    "url": "https://play.google.com/store/apps/developer?id=HCLINSYS+SG"
+  },
+  "Health+Promotion+Board": {
+    "agencyFullName": "HEALTH PROMOTION BOARD",
+    "url": "https://play.google.com/store/apps/developer?id=Health+Promotion+Board"
+  },
+  "Housing+%26+Development+Board,+Singapore": {
+    "agencyFullName": "HOUSING & DEVELOPMENT BOARD",
+    "url": "https://play.google.com/store/apps/developer?id=Housing+%26+Development+Board,+Singapore"
+  },
+  "Immigration+%26+Checkpoints+Authority": {
+    "agencyFullName": "MINISTRY OF HOME AFFAIRS",
+    "url": "https://play.google.com/store/apps/developer?id=Immigration+%26+Checkpoints+Authority"
+  },
+  "Ministry+of+Home+Affairs+(Singapore)": {
+    "agencyFullName": "MINISTRY OF HOME AFFAIRS",
+    "url": "https://play.google.com/store/apps/developer?id=Ministry+of+Home+Affairs+(Singapore)"
+  },
+  "Singapore+Police+Force": {
+    "agencyFullName": "MINISTRY OF HOME AFFAIRS",
+    "url": "https://play.google.com/store/apps/developer?id=Singapore+Police+Force"
+  },
+  "Singapore+Civil+Defence+Force": {
+    "agencyFullName": "MINISTRY OF HOME AFFAIRS",
+    "url": "https://play.google.com/store/apps/developer?id=Singapore+Civil+Defence+Force"
+  },
+  "Info-communications+Media+Development+Authority": {
+    "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY",
+    "url": "https://play.google.com/store/apps/developer?id=Info-communications+Media+Development+Authority"
+  },
+  "ITE+College+Central": {
+    "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
+    "url": "https://play.google.com/store/apps/developer?id=ITE+College+Central"
+  },
+  "JTC+Corporation": {
+    "agencyFullName": "JTC CORPORATION",
+    "url": "https://play.google.com/store/apps/developer?id=JTC+Corporation"
+  },
+  "Maritime+and+Port+Authority+of+Singapore": {
+    "agencyFullName": "MARITIME AND PORT AUTHORITY OF SINGAPORE",
+    "url": "https://play.google.com/store/apps/developer?id=Maritime+and+Port+Authority+of+Singapore"
+  },
+  "Meteorological+Service+Singapore": {
+    "agencyFullName": "NATIONAL ENVIRONMENT AGENCY",
+    "url": "https://play.google.com/store/apps/developer?id=Meteorological+Service+Singapore"
+  },
+  "National+Environment+Agency": {
+    "agencyFullName": "NATIONAL ENVIRONMENT AGENCY",
+    "url": "https://play.google.com/store/apps/developer?id=National+Environment+Agency"
+  },
+  "Ministry+of+Education+(Singapore)": {
+    "agencyFullName": "MINISTRY OF EDUCATION",
+    "url": "https://play.google.com/store/apps/developer?id=Ministry+of+Education+(Singapore)"
+  },
+  "Ministry+of+Foreign+Affairs": {
+    "agencyFullName": "MINISTRY OF FOREIGN AFFAIRS",
+    "url": "https://play.google.com/store/apps/developer?id=Ministry+of+Foreign+Affairs"
+  },
+  "Ministry+of+Manpower": {
+    "agencyFullName": "MINISTRY OF MANPOWER",
+    "url": "https://play.google.com/store/apps/developer?id=Ministry+of+Manpower"
+  },
+  "Ministry+of+National+Development+(Singapore)": {
+    "agencyFullName": "MINISTRY OF NATIONAL DEVELOPMENT",
+    "url": "https://play.google.com/store/apps/developer?id=Ministry+of+National+Development+(Singapore)"
+  },
+  "MSF+Singapore": {
+    "agencyFullName": "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT",
+    "url": "https://play.google.com/store/apps/developer?id=MSF+Singapore"
+  },
+  "Nanyang+Polytechnic": {
+    "agencyFullName": "NANYANG POLYTECHNIC",
+    "url": "https://play.google.com/store/apps/developer?id=Nanyang+Polytechnic"
+  },
+  "NYP+SIDM+SGCC": {
+    "agencyFullName": "NANYANG POLYTECHNIC",
+    "url": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC"
+  },
+  "SIDM,+Nanyang+Polytechnic": {
+    "agencyFullName": "NANYANG POLYTECHNIC",
+    "url": "https://play.google.com/store/apps/developer?id=SIDM,+Nanyang+Polytechnic"
+  },
+  "National+Library+Board,+Singapore": {
+    "agencyFullName": "NATIONAL LIBRARY BOARD",
+    "url": "https://play.google.com/store/apps/developer?id=National+Library+Board,+Singapore"
+  },
+  "Ngee+Ann+Polytechnic": {
+    "agencyFullName": "NGEE ANN POLYTECHNIC",
+    "url": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic"
+  },
+  "School+of+Engineering,+Ngee+Ann+Polytechnic": {
+    "agencyFullName": "NGEE ANN POLYTECHNIC",
+    "url": "https://play.google.com/store/apps/developer?id=School+of+Engineering,+Ngee+Ann+Polytechnic"
+  },
+  "PUB,+Singapore%27s+National+Water+Agency": {
+    "agencyFullName": "PUB, SINGAPORE'S NATIONAL WATER AGENCY",
+    "url": "https://play.google.com/store/apps/developer?id=PUB,+Singapore%27s+National+Water+Agency"
+  },
+  "Sentosa+Leisure+Management": {
+    "agencyFullName": "SENTOSA DEVELOPMENT CORPORATION",
+    "url": "https://play.google.com/store/apps/developer?id=Sentosa+Leisure+Management"
+  },
+  "Singapore+Department+of+Statistics": {
+    "agencyFullName": "MINISTRY OF TRADE AND INDUSTRY",
+    "url": "https://play.google.com/store/apps/developer?id=Singapore+Department+of+Statistics"
+  },
+  "Singapore+Health+Services": {
+    "agencyFullName": "MINISTRY OF HEALTH",
+    "url": "https://play.google.com/store/apps/developer?id=Singapore+Health+Services"
+  },
+  "Singapore+Land+Authority": {
+    "agencyFullName": "SINGAPORE LAND AUTHORITY",
+    "url": "https://play.google.com/store/apps/developer?id=Singapore+Land+Authority"
+  },
+  "Singapore+Polytechnic": {
+    "agencyFullName": "SINGAPORE POLYTECHNIC",
+    "url": "https://play.google.com/store/apps/developer?id=Singapore+Polytechnic"
+  },
+  "SkillsFuture+Singapore": {
+    "agencyFullName": "SKILLS FUTURE SINGAPORE",
+    "url": "https://play.google.com/store/apps/developer?id=SkillsFuture+Singapore"
+  },
+  "SportSG": {
+    "agencyFullName": "SPORT SINGAPORE",
+    "url": "https://play.google.com/store/apps/developer?id=SportSG"
+  },
+  "State+Courts+Singapore": {
+    "agencyFullName": "JUDICIARY, STATE COURTS",
+    "url": "https://play.google.com/store/apps/developer?id=State+Courts+Singapore"
+  },
+  "Urban+Redevelopment+Authority+(URA)": {
+    "agencyFullName": "URBAN REDEVELOPMENT AUTHORITY",
+    "url": "https://play.google.com/store/apps/developer?id=Urban+Redevelopment+Authority+(URA)"
+  },
+  "Monetary+Authority+of+Singapore": {
+    "agencyFullName": "MONETARY AUTHORITY OF SINGAPORE",
+    "url": "https://play.google.com/store/apps/developer?id=Monetary+Authority+of+Singapore"
+  },
+  "Land+Transport+Authority": {
+    "agencyFullName": "LAND TRANSPORT AUTHORITY",
+    "url": "https://play.google.com/store/apps/developer?id=Land+Transport+Authority"
+  },
+  "Temasek+Polytechnic": {
+    "agencyFullName": "TEMASEK POLYTECHNIC",
+    "url": "https://play.google.com/store/apps/developer?id=Temasek+Polytechnic"
+  },
+  "Republic+Polytechnic+Singapore": {
+    "agencyFullName": "REPUBLIC POLYTECHNIC",
+    "url": "https://play.google.com/store/apps/developer?id=Republic+Polytechnic+Singapore"
+  },
+  "People%27s+Association": {
+    "agencyFullName": "PEOPLE'S ASSOCIATION",
+    "url": "https://play.google.com/store/apps/developer?id=People%27s+Association"
+  },
 
   "whitelistedApps": {
-    "com.anl.wizlearnapp_nja": "https://play.google.com/store/apps/details?id=com.anl.wizlearnapp_nja",
-    "com.iapps.ssc": "https://play.google.com/store/apps/details?id=com.iapps.ssc",
-    "com.merchant.app.merchant": "https://play.google.com/store/apps/details?id=com.merchant.app.merchant",
-    "com.ohana.peoplego": "https://play.google.com/store/apps/details?id=com.ohana.peoplego",
-    "com.wizlearn.singhealth": "https://play.google.com/store/apps/details?id=com.wizlearn.singhealth",
-    "gov.career": "https://play.google.com/store/apps/details?id=gov.career"
+    "com.ohana.peoplego": {
+      "agencyFullName": "MINISTRY OF MANPOWER",
+      "url": "https://play.google.com/store/apps/details?id=com.ohana.peoplego"
+    },
+    "com.anl.wizlearnapp_nja": {
+      "agencyFullName": "MINISTRY OF HEALTH",
+      "url": "https://play.google.com/store/apps/details?id=com.anl.wizlearnapp_nja"
+    },
+    "com.wizlearn.singhealth": {
+      "agencyFullName": "MINISTRY OF HEALTH",
+      "url": "https://play.google.com/store/apps/details?id=com.wizlearn.singhealth"
+    },
+    "com.iapps.ssc": {
+      "agencyFullName": "SPORT SINGAPORE",
+      "url": "https://play.google.com/store/apps/details?id=com.iapps.ssc"
+    },
+    "com.merchant.app.merchant": {
+      "agencyFullName": "SPORT SINGAPORE",
+      "url": "https://play.google.com/store/apps/details?id=com.merchant.app.merchant"
+    },
+    "gov.career": {
+      "agencyFullName": "PRIME MINISTER'S OFFICE",
+      "url": "https://play.google.com/store/apps/details?id=gov.career"
+    }
   }
 }

@@ -1,4 +1,5 @@
 from lxml import html
+import copy
 import json
 import os.path
 import requests
@@ -19,15 +20,16 @@ class FindAppsByWhitelist(scrapy.Spider):
         whitelist = json.load(f)
 
     def start_requests(self):
-        app_obj = self.whitelist.pop('whitelistedApps', None)
-        app_urls = app_obj.values() if app_obj is not None else []
-        dev_urls = self.whitelist.values()
+        wl_copy = copy.deepcopy(self.whitelist)
+        wl_apps = wl_copy.pop('whitelistedApps', None)
+        app_obj = wl_apps.values() if wl_apps is not None else []
+        dev_obj = wl_copy.values()
 
-        for u in dev_urls:
-            yield scrapy.Request(url=u, callback=self.parse_apps_by_dev)
+        for d in dev_obj:
+            yield scrapy.Request(url=d['url'], callback=self.parse_apps_by_dev)
 
-        for u in app_urls:
-            yield scrapy.Request(url=u, callback=self.parse)
+        for a in app_obj:
+            yield scrapy.Request(url=a['url'], callback=self.parse)
 
     def parse_apps_by_dev(self, response):
         origin = 'https://play.google.com'
@@ -45,6 +47,7 @@ class FindAppsByWhitelist(scrapy.Spider):
         urc = int(urc.replace(',', '')) if urc is not None else 0
 
         item = {
+            'agencyFullName': self.find_agency_full_name(response),
             'appName': response.css('h1[itemprop="name"] span::text').extract_first(),
             'appViewUrl': response.url,
 
@@ -68,6 +71,26 @@ class FindAppsByWhitelist(scrapy.Spider):
 
         self.play_store['results'].append(item)
         self.play_store['resultCount'] += 1
+
+    def find_agency_full_name(self, response):
+        dev_url = response.css(
+            '.T32cc.UAO9ie:nth-child(1) a::attr(href)').extract_first()
+        app_url = response.url
+
+        dev_id = dev_url.split('id=')[1].replace(
+            '%28', '(').replace('%29', ')')
+        app_id = app_url.split('id=')[1].replace(
+            '%28', '(').replace('%29', ')')
+
+        agency_full_name = None
+
+        if dev_id in self.whitelist:
+            agency_full_name = self.whitelist[dev_id]['agencyFullName']
+
+        if app_id in self.whitelist['whitelistedApps']:
+            agency_full_name = self.whitelist['whitelistedApps'][app_id]['agencyFullName']
+
+        return agency_full_name
 
     def closed(self, reason):
         with open(self.op_file, 'w') as f:
