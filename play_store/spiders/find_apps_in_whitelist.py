@@ -32,7 +32,7 @@ class FindAppsByWhitelist(scrapy.Spider):
     def parse_apps_by_dev(self, response):
         origin = 'https://play.google.com'
         paths = response.css(
-            'a[href^="/store/apps/details"].title::attr(href)').extract()
+            'div.Q9MA7b a[href^="/store/apps/details"]::attr(href)').extract()
 
         for p in paths:
             yield scrapy.Request(url=origin + p, callback=self.parse)

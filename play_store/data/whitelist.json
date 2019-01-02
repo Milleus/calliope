@@ -15,6 +15,7 @@
   "Info-communications+Media+Development+Authority": "https://play.google.com/store/apps/developer?id=Info-communications+Media+Development+Authority",
   "ITE+College+Central": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
   "JTC+Corporation": "https://play.google.com/store/apps/developer?id=JTC+Corporation",
+  "Land+Transport+Authority": "https://play.google.com/store/apps/developer?id=Land+Transport+Authority",
   "Maritime+and+Port+Authority+of+Singapore": "https://play.google.com/store/apps/developer?id=Maritime+and+Port+Authority+of+Singapore",
   "Meteorological+Service+Singapore": "https://play.google.com/store/apps/developer?id=Meteorological+Service+Singapore",
   "Ministry+of+Education+(Singapore)": "https://play.google.com/store/apps/developer?id=Ministry+of+Education+(Singapore)",
@@ -22,6 +23,7 @@
   "Ministry+of+Home+Affairs+(Singapore)": "https://play.google.com/store/apps/developer?id=Ministry+of+Home+Affairs+(Singapore)",
   "Ministry+of+Manpower": "https://play.google.com/store/apps/developer?id=Ministry+of+Manpower",
   "Ministry+of+National+Development+(Singapore)": "https://play.google.com/store/apps/developer?id=Ministry+of+National+Development+(Singapore)",
+  "Monetary+Authority+of+Singapore": "https://play.google.com/store/apps/developer?id=Monetary+Authority+of+Singapore",
   "MSF+Singapore": "https://play.google.com/store/apps/developer?id=MSF+Singapore",
   "Nanyang+Polytechnic": "https://play.google.com/store/apps/developer?id=Nanyang+Polytechnic",
   "National+Environment+Agency": "https://play.google.com/store/apps/developer?id=National+Environment+Agency",
@@ -31,9 +33,11 @@
   "NYP+SIDM+SGCC": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
   "People's+Association": "https://play.google.com/store/apps/developer?id=People's+Association",
   "PUB,+Singapore's+National+Water+Agency": "https://play.google.com/store/apps/developer?id=PUB,+Singapore's+National+Water+Agency",
+  "Republic+Polytechnic+Singapore": "https://play.google.com/store/apps/developer?id=Republic+Polytechnic+Singapore",
   "School+of+Engineering,+Ngee+Ann+Polytechnic": "https://play.google.com/store/apps/developer?id=School+of+Engineering,+Ngee+Ann+Polytechnic",
   "Sentosa+Leisure+Management": "https://play.google.com/store/apps/developer?id=Sentosa+Leisure+Management",
   "SIDM,+Nanyang+Polytechnic": "https://play.google.com/store/apps/developer?id=SIDM,+Nanyang+Polytechnic",
+  "Singapore+Civil+Defence+Force": "https://play.google.com/store/apps/developer?id=Singapore+Civil+Defence+Force",
   "Singapore+Customs": "https://play.google.com/store/apps/developer?id=Singapore+Customs",
   "Singapore+Department+of+Statistics": "https://play.google.com/store/apps/developer?id=Singapore+Department+of+Statistics",
   "Singapore+Health+Services": "https://play.google.com/store/apps/developer?id=Singapore+Health+Services",
@@ -43,19 +47,15 @@
   "SkillsFuture+Singapore": "https://play.google.com/store/apps/developer?id=SkillsFuture+Singapore",
   "SportSG": "https://play.google.com/store/apps/developer?id=SportSG",
   "State+Courts+Singapore": "https://play.google.com/store/apps/developer?id=State+Courts+Singapore",
-  "Urban+Redevelopment+Authority+(URA)": "https://play.google.com/store/apps/developer?id=Urban+Redevelopment+Authority+(URA)",
-  "Singapore+Civil+Defence+Force": "https://play.google.com/store/apps/developer?id=Singapore+Civil+Defence+Force",
-  "Monetary+Authority+of+Singapore": "https://play.google.com/store/apps/developer?id=Monetary+Authority+of+Singapore",
-  "Land+Transport+Authority": "https://play.google.com/store/apps/developer?id=Land+Transport+Authority",
   "Temasek+Polytechnic": "https://play.google.com/store/apps/developer?id=Temasek+Polytechnic",
-  "Republic+Polytechnic+Singapore": "https://play.google.com/store/apps/developer?id=Republic+Polytechnic+Singapore",
+  "Urban+Redevelopment+Authority+(URA)": "https://play.google.com/store/apps/developer?id=Urban+Redevelopment+Authority+(URA)",
 
   "whitelistedApps": {
-    "com.ohana.peoplego": "https://play.google.com/store/apps/details?id=com.ohana.peoplego",
+    "com.anl.wizlearnapp_nja": "https://play.google.com/store/apps/details?id=com.anl.wizlearnapp_nja",
     "com.iapps.ssc": "https://play.google.com/store/apps/details?id=com.iapps.ssc",
     "com.merchant.app.merchant": "https://play.google.com/store/apps/details?id=com.merchant.app.merchant",
-    "gov.career": "https://play.google.com/store/apps/details?id=gov.career",
-    "com.anl.wizlearnapp_nja": "https://play.google.com/store/apps/details?id=com.anl.wizlearnapp_nja",
-    "com.wizlearn.singhealth": "https://play.google.com/store/apps/details?id=com.wizlearn.singhealth"
+    "com.ohana.peoplego": "https://play.google.com/store/apps/details?id=com.ohana.peoplego",
+    "com.wizlearn.singhealth": "https://play.google.com/store/apps/details?id=com.wizlearn.singhealth",
+    "gov.career": "https://play.google.com/store/apps/details?id=gov.career"
   }
 }
