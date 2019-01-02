@@ -31,7 +31,7 @@ Based on the whitelist, we can now find all the mobile applications that belong 
 
 - `python app_store/find_apps_in_whitelist.py`
 
-  Calls App Store API with developer/app ids in whitelist and returns a list of mobile application data. Results are stored in app_store/data/app_store_results.json.
+  Calls App Store API with developer/app ids in whitelist and returns a collection of mobile application data. Results are stored in app_store/data/app_store_results.json.
 
 ### Play Store
 
@@ -45,7 +45,13 @@ Based on the whitelist, we can now find all the mobile applications that belong 
 
 - `scrapy crawl find_apps_in_whitelist`
 
-  Crawl Play Store developer/app pages with developer/app ids in whitelist and returns a list of mobile application data. Results are stored in play_store/data/play_store_results.json.
+  Crawl Play Store developer/app pages with developer/app ids in whitelist and returns a collection of mobile application data. Results are stored in play_store/data/play_store_results.json.
+
+### Merging Data
+
+- `python merge.py`
+
+  Combine app_store_results.json and play_store_results.json and return a merged collection of mobile application data. Results are stored in store_results.json.
 
 ## Resources
 

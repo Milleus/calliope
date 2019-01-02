@@ -5,7 +5,7 @@ import re
 import requests
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
-op_file = os.path.abspath('./merged_results.json')
+op_file = os.path.abspath('./store_results.json')
 as_file = os.path.abspath('./app_store/data/app_store_results.json')
 ps_file = os.path.abspath('./play_store/data/play_store_results.json')
 
