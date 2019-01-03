@@ -5,24 +5,24 @@ import re
 import requests
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
-op_file = os.path.abspath('./store_results.json')
-as_file = os.path.abspath('./app_store/data/app_store_results.json')
-ps_file = os.path.abspath('./play_store/data/play_store_results.json')
+op_file = os.path.abspath('./merged_apps_data.json')
+as_file = os.path.abspath('./app_store/data/apps_data.json')
+ps_file = os.path.abspath('./play_store/data/apps_data.json')
 
 merged_dict = {}
 
 
 def main():
-    parse_app_store_results()
-    parse_play_store_results()
+    parse_app_store_apps()
+    parse_play_store_apps()
     closed()
 
 
-def parse_app_store_results():
+def parse_app_store_apps():
     with open(as_file, 'r') as f:
         app_store = json.load(f)
 
-    for obj in app_store['results']:
+    for obj in app_store['data']:
         app_name = obj['appName']
 
         item = {
@@ -38,11 +38,11 @@ def parse_app_store_results():
         merged_dict[app_name] = item
 
 
-def parse_play_store_results():
+def parse_play_store_apps():
     with open(ps_file, 'r') as f:
         play_store = json.load(f)
 
-    for obj in play_store['results']:
+    for obj in play_store['data']:
         app_name = obj['appName']
 
         item = {
@@ -63,8 +63,8 @@ def parse_play_store_results():
 
 def closed():
     merged = {
-        'results': [],
-        'resultCount': 0,
+        'data': [],
+        'totalCount': 0,
     }
 
     for k, v in merged_dict.iteritems():
@@ -73,9 +73,9 @@ def closed():
         }
 
         item.update(v)
-        merged['results'].append(item)
+        merged['data'].append(item)
 
-    merged['resultCount'] = len(merged_dict)
+    merged['totalCount'] = len(merged_dict)
 
     with open(op_file, 'w') as f:
         f.write(json.dumps(merged))

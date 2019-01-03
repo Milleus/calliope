@@ -21,37 +21,37 @@ Based on the whitelist, we can now find all the mobile applications that belong 
 
 ### App Store
 
-- `python app_store/find_all_dev_ids.py`
+- `python app_store/get_all_dev_ids.py`
 
   Calls App Store API with all keywords in keywords.data and returns a list of developer ids. Results are stored in app_store/data/all_dev_ids.json. This can be modified to return other app related information.
 
-- `python app_store/find_new_dev_ids.py`
+- `python app_store/get_new_dev_ids.py`
 
   Calls App Store API with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in app_store/data/unverified.json.
 
-- `python app_store/find_apps_in_whitelist.py`
+- `python app_store/get_apps_data.py`
 
-  Calls App Store API with developer/app ids in whitelist and returns a collection of mobile application data. Results are stored in app_store/data/app_store_results.json.
+  Calls App Store API with developer/app ids in whitelist and returns a collection of mobile application data. Results are stored in app_store/data/apps_data.json.
 
 ### Play Store
 
-- `python play_store/find_all_dev_ids.py`
+- `python play_store/get_all_dev_ids.py`
 
   Calls Play Store search with all keywords in keywords.data and returns a list of developer ids. Results are stored in play_store/data/all_dev_ids.json. This can be modified to return other app related information.
 
-- `python app_store/find_new_dev_ids.py`
+- `python app_store/get_new_dev_ids.py`
 
   Calls Play Store search with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in play_store/data/unverified.json.
 
-- `scrapy crawl find_apps_in_whitelist`
+- `scrapy crawl get_apps_data`
 
-  Crawl Play Store developer/app pages with developer/app ids in whitelist and returns a collection of mobile application data. Results are stored in play_store/data/play_store_results.json.
+  Crawl Play Store developer/app pages with developer/app ids in whitelist and returns a collection of mobile application data. Results are stored in play_store/data/apps_data.json.
 
 ### Merging Data
 
 - `python merge.py`
 
-  Combine app_store_results.json and play_store_results.json and return a merged collection of mobile application data. Results are stored in store_results.json.
+  Combine apps_data.json from app store and play store, and return a merged collection of mobile application data. Results are stored in merged_apps_data.json.
 
 ## Resources
 

@@ -5,21 +5,13 @@ import os.path
 import requests
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
-bl_file = os.path.abspath('./play_store/data/blacklist.json')
 kw_file = os.path.abspath('./keywords.data')
-op_file = os.path.abspath('./play_store/data/unverified.json')
-wl_file = os.path.abspath('./play_store/data/whitelist.json')
+op_file = os.path.abspath('./play_store/data/all_dev_ids.json')
 
 play_store = {
-    'results': {},
-    'resultCount': 0
+    'data': {},
+    'totalCount': 0
 }
-
-with open(bl_file, 'r') as f:
-    blacklist = json.load(f)
-
-with open(wl_file, 'r') as f:
-    whitelist = json.load(f)
 
 
 def main():
@@ -49,13 +41,9 @@ def get_params(keyword):
 def parse(origin, path):
     dev_id = path.split('id=')[1]
 
-    if dev_id not in whitelist and dev_id not in blacklist and dev_id not in play_store['results']:
-        try:
-            play_store['results'][dev_id] = origin + path
-            play_store['resultCount'] += 1
-            logging.info('New developer id found %s' % dev_id)
-        except:
-            logging.error('Error occurred %s' % origin + path)
+    if dev_id not in play_store['data']:
+        play_store['data'][dev_id] = origin + path
+        play_store['totalCount'] += 1
 
 
 def closed():

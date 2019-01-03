@@ -6,12 +6,12 @@ import re
 import requests
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
-op_file = os.path.abspath('./app_store/data/app_store_results.json')
+op_file = os.path.abspath('./app_store/data/apps_data.json')
 wl_file = os.path.abspath('./app_store/data/whitelist.json')
 
 app_store = {
-    'results': [],
-    'resultCount': 0
+    'data': [],
+    'totalCount': 0
 }
 
 with open(wl_file, 'r') as f:
@@ -64,8 +64,8 @@ def parse(obj):
         # 'downloads':
     }
 
-    app_store['results'].append(item)
-    app_store['resultCount'] += 1
+    app_store['data'].append(item)
+    app_store['totalCount'] += 1
 
 
 def find_agency_full_name(obj):

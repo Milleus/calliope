@@ -9,9 +9,7 @@ kw_file = os.path.abspath('./keywords.data')
 op_file = os.path.abspath('./app_store/data/all_dev_ids.json')
 
 app_store = {
-    'results': {},
-    'resultCount': 0,
-    'duplicateCount': 0,
+    'data': {},
     'totalCount': 0
 }
 
@@ -44,13 +42,9 @@ def get_params(keyword):
 def parse(obj):
     dev_id = str(obj['artistId'])
 
-    if dev_id not in app_store['results']:
-        app_store['results'][dev_id] = obj['artistViewUrl']
-        app_store['resultCount'] += 1
-    else:
-        app_store['duplicateCount'] += 1
-
-    app_store['totalCount'] += 1
+    if dev_id not in app_store['data']:
+        app_store['data'][dev_id] = obj['artistViewUrl']
+        app_store['totalCount'] += 1
 
 
 def closed():

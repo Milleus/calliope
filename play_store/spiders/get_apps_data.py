@@ -7,13 +7,13 @@ import scrapy
 
 
 class FindAppsByWhitelist(scrapy.Spider):
-    name = 'find_apps_in_whitelist'
-    op_file = os.path.abspath('./play_store/data/play_store_results.json')
+    name = 'get_apps_data'
+    op_file = os.path.abspath('./play_store/data/apps_data.json')
     wl_file = os.path.abspath('./play_store/data/whitelist.json')
 
     play_store = {
-        'results': [],
-        'resultCount': 0
+        'data': [],
+        'totalCount': 0
     }
 
     with open(wl_file, 'r') as f:
@@ -69,8 +69,8 @@ class FindAppsByWhitelist(scrapy.Spider):
             'downloads': response.css('.hAyfc:nth-child(3) span div span::text').extract_first(),
         }
 
-        self.play_store['results'].append(item)
-        self.play_store['resultCount'] += 1
+        self.play_store['data'].append(item)
+        self.play_store['totalCount'] += 1
 
     def find_agency_full_name(self, response):
         dev_url = response.css(
