@@ -2,2572 +2,1690 @@
   "totalCount": 201,
   "data": [
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/hs-medical-abbreviations/id436304902?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/hs-medical-abbreviations/id436304902?mt=8&uo=4",
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "HS Medical Abbreviations"
     },
     {
-      "playStore": {
-        "userRatingCount": 22,
-        "averageUserRating": 1.7,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Health+Promotion+Board",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.healthinsights"
-      },
-      "appStore": {
-        "userRatingCount": 18,
-        "averageUserRating": 2.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/health-promotion-board/id470823074?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/hisg-health-insights-sg/id1411948539?mt=8&uo=4"
-      },
-      "agencyFullName": "HEALTH PROMOTION BOARD",
-      "appName": "hiSG - Health Insights SG"
+      "appStoreUserRatingCount": 18,
+      "playStoreAverageUserRating": 1.7,
+      "appName": "hiSG - Health Insights SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/hisg-health-insights-sg/id1411948539?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.healthinsights",
+      "playStoreUserRatingCount": 22,
+      "agencyFullName": "HEALTH PROMOTION BOARD"
     },
     {
-      "playStore": {
-        "userRatingCount": 33,
-        "averageUserRating": 4.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Agri-Food+%26+Veterinary+Authority+of+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.thisiscolony.ava"
-      },
-      "appStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 4.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/agri-food-veterinary-authority-of-singapore/id850892058?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sg-travelkaki/id850892055?mt=8&uo=4"
-      },
-      "agencyFullName": "AGRI-FOOD & VETERINARY AUTHORITY OF SINGAPORE",
-      "appName": "SG TravelKaki"
+      "appStoreUserRatingCount": 5,
+      "playStoreAverageUserRating": 4.1,
+      "appName": "SG TravelKaki",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sg-travelkaki/id850892055?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.thisiscolony.ava",
+      "playStoreUserRatingCount": 33,
+      "agencyFullName": "AGRI-FOOD & VETERINARY AUTHORITY OF SINGAPORE"
     },
     {
-      "playStore": {
-        "userRatingCount": 21,
-        "averageUserRating": 2.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.gameon"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/murugesan-latha/id1127236777?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/central-quest/id1216505592?mt=8&uo=4"
-      },
-      "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
-      "appName": "Central Quest"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 2.4,
+      "appName": "Central Quest",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/central-quest/id1216505592?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.gameon",
+      "playStoreUserRatingCount": 21,
+      "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION"
     },
     {
-      "playStore": {
-        "userRatingCount": 22,
-        "averageUserRating": 2.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Housing+%26+Development+Board,+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.hdb.healthapp"
-      },
-      "appStore": {
-        "userRatingCount": 20,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/housing-development-board/id425341803?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/hdb-health/id1266210350?mt=8&uo=4"
-      },
-      "agencyFullName": "HOUSING & DEVELOPMENT BOARD",
-      "appName": "HDB Health"
+      "appStoreUserRatingCount": 20,
+      "playStoreAverageUserRating": 2.9,
+      "appName": "HDB Health",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/hdb-health/id1266210350?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.hdb.healthapp",
+      "playStoreUserRatingCount": 22,
+      "agencyFullName": "HOUSING & DEVELOPMENT BOARD"
     },
     {
-      "playStore": {
-        "userRatingCount": 1,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Land+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.sla.sirent"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-land-authority/id1068341642?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sirent/id1358585311?mt=8&uo=4"
-      },
-      "agencyFullName": "SINGAPORE LAND AUTHORITY",
-      "appName": "SiReNT"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 5.0,
+      "appName": "SiReNT",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sirent/id1358585311?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.sla.sirent",
+      "playStoreUserRatingCount": 1,
+      "agencyFullName": "SINGAPORE LAND AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.MobileTranslator"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mobile-translator/id436307443?mt=8&uo=4"
-      },
-      "agencyFullName": "NGEE ANN POLYTECHNIC",
-      "appName": "Mobile Translator"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "Mobile Translator",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mobile-translator/id436307443?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.MobileTranslator",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "NGEE ANN POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 23,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.Datsubug.TTTDDDD"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.Datsubug.TTTDDDD",
+      "playStoreUserRatingCount": 23,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 5.0,
       "appName": "SGCC2018 The Doctor will see you now"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/cck/id536157349?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/colour-vision-test/id1369800126?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/colour-vision-test/id1369800126?mt=8&uo=4",
       "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "Colour Vision Test"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/republicpolytechnic/id898718693?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/yolo-neighbour-2/id903086437?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/yolo-neighbour-2/id903086437?mt=8&uo=4",
       "agencyFullName": "REPUBLIC POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "YOLO Neighbour 2"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/building-construction-authority/id655408961?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/igbc-conference-singapore/id1401723433?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/igbc-conference-singapore/id1401723433?mt=8&uo=4",
       "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "IGBC Conference Singapore"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-land-authority/id1068341642?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/inlis4/id1140865753?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/inlis4/id1140865753?mt=8&uo=4",
       "agencyFullName": "SINGAPORE LAND AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "INLIS4"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/building-construction-authority/id655408961?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/conquas/id556890969?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/conquas/id556890969?mt=8&uo=4",
       "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "CONQUAS."
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/republicpolytechnic/id898718693?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/rp-connect/id1101644926?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/rp-connect/id1101644926?mt=8&uo=4",
       "agencyFullName": "REPUBLIC POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "RP Connect"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-polytechnic/id410480187?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/spenggshow/id483986601?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/spenggshow/id483986601?mt=8&uo=4",
       "agencyFullName": "SINGAPORE POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "SPEnggShow"
     },
     {
-      "playStore": {
-        "userRatingCount": 64,
-        "averageUserRating": 4.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.app.mol"
-      },
-      "appStore": {
-        "userRatingCount": 38,
-        "averageUserRating": 4.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/moments-of-life-families/id1383218758?mt=8&uo=4"
-      },
-      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
-      "appName": "Moments of Life (Families)"
+      "appStoreUserRatingCount": 38,
+      "playStoreAverageUserRating": 4.2,
+      "appName": "Moments of Life (Families)",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/moments-of-life-families/id1383218758?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.app.mol",
+      "playStoreUserRatingCount": 64,
+      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY"
     },
     {
-      "playStore": {
-        "userRatingCount": 492,
-        "averageUserRating": 4.5,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=CPF+Board",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=gov.sg.cpf.mycpf"
-      },
-      "appStore": {
-        "userRatingCount": 755,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/central-provident-fund-board/id389277979?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mycpf/id389277976?mt=8&uo=4"
-      },
-      "agencyFullName": "CENTRAL PROVIDENT FUND BOARD",
-      "appName": "myCPF"
+      "appStoreUserRatingCount": 755,
+      "playStoreAverageUserRating": 4.5,
+      "appName": "myCPF",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mycpf/id389277976?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=gov.sg.cpf.mycpf",
+      "playStoreUserRatingCount": 492,
+      "agencyFullName": "CENTRAL PROVIDENT FUND BOARD"
     },
     {
-      "playStore": {
-        "userRatingCount": 5212,
-        "averageUserRating": 3.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=iAPPS+Pte+Ltd",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.iapps.ssc"
-      },
-      "appStore": {
-        "userRatingCount": 820,
-        "averageUserRating": 2.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/iapps-pte-ltd/id597193482?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/activesg/id827595244?mt=8&uo=4"
-      },
-      "agencyFullName": "SPORT SINGAPORE",
-      "appName": "ActiveSG"
+      "appStoreUserRatingCount": 820,
+      "playStoreAverageUserRating": 3.1,
+      "appName": "ActiveSG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/activesg/id827595244?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.iapps.ssc",
+      "playStoreUserRatingCount": 5212,
+      "agencyFullName": "SPORT SINGAPORE"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ministry+of+Education+%28Singapore%29",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.MOE.CSP3B"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-education-singapore/id852187844?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/csp-3b/id1273083374?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF EDUCATION",
-      "appName": "CSP 3B"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "CSP 3B",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/csp-3b/id1273083374?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.MOE.CSP3B",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "MINISTRY OF EDUCATION"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/endocrinequiz/id1100124109?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/endocrinequiz/id1100124109?mt=8&uo=4",
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "EndocrineQuiz"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-land-authority/id1068341642?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/onehmap/id1068341643?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/onehmap/id1068341643?mt=8&uo=4",
       "agencyFullName": "SINGAPORE LAND AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "OneHMap"
     },
     {
-      "playStore": {
-        "userRatingCount": 2,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.ISS2017Launch"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.ISS2017Launch",
+      "playStoreUserRatingCount": 2,
       "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
+      "playStoreAverageUserRating": 5.0,
       "appName": "ISS Launch"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ite-college-east/id685277621?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/ite-vtc-iss2017/id1242985351?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/ite-vtc-iss2017/id1242985351?mt=8&uo=4",
       "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
+      "appStoreAverageUserRating": 0,
       "appName": "ITE-VTC ISS2017"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/singhealth-ivf/id994813978?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/singhealth-ivf/id994813978?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF HEALTH",
+      "appStoreAverageUserRating": 0,
       "appName": "SingHealth IVF"
     },
     {
-      "playStore": {
-        "userRatingCount": 66,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Department+of+Statistics",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.singstat"
-      },
-      "appStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-department-of-statistics/id935197004?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/singstat/id935197005?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF TRADE AND INDUSTRY",
-      "appName": "SingStat"
+      "appStoreUserRatingCount": 5,
+      "playStoreAverageUserRating": 4.0,
+      "appName": "SingStat",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/singstat/id935197005?mt=8&uo=4",
+      "appStoreAverageUserRating": 5.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.singstat",
+      "playStoreUserRatingCount": 66,
+      "agencyFullName": "MINISTRY OF TRADE AND INDUSTRY"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/c28/id1161626431?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/c28/id1161626431?mt=8&uo=4",
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "C28"
     },
     {
-      "appStore": {
-        "userRatingCount": 17,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/urban-redevelopment-authority-ura/id571242368?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/master-plan-2014-singapore/id571242365?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 17,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/master-plan-2014-singapore/id571242365?mt=8&uo=4",
       "agencyFullName": "URBAN REDEVELOPMENT AUTHORITY",
+      "appStoreAverageUserRating": 3.0,
       "appName": "Master Plan 2014 - Singapore"
     },
     {
-      "playStore": {
-        "userRatingCount": 1234,
-        "averageUserRating": 2.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Info-communications+Media+Development+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.nanoequipment.idawirelesssg"
-      },
-      "appStore": {
-        "userRatingCount": 32,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/info-communications-media-development-authority/id470826705?mt=12&uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/wireless-sg/id1222815823?mt=12&uo=4"
-      },
-      "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY",
-      "appName": "Wireless@SG"
+      "appStoreUserRatingCount": 32,
+      "playStoreAverageUserRating": 2.8,
+      "appName": "Wireless@SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/wireless-sg/id1222815823?mt=12&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.nanoequipment.idawirelesssg",
+      "playStoreUserRatingCount": 1234,
+      "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 12,
-        "averageUserRating": 4.5,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.dezainwerkz.ngeeann"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/np-courses/id1180835366?mt=8&uo=4"
-      },
-      "agencyFullName": "NGEE ANN POLYTECHNIC",
-      "appName": "NP Courses"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 4.5,
+      "appName": "NP Courses",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/np-courses/id1180835366?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.dezainwerkz.ngeeann",
+      "playStoreUserRatingCount": 12,
+      "agencyFullName": "NGEE ANN POLYTECHNIC"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/cck/id536157349?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/ite-attendance/id1335539280?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/ite-attendance/id1335539280?mt=8&uo=4",
       "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "ITE Attendance"
     },
     {
-      "appStore": {
-        "userRatingCount": 29,
-        "averageUserRating": 4.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-tourism-board/id377187145?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/visit-singapore-travel-guide/id1258016201?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 29,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/visit-singapore-travel-guide/id1258016201?mt=8&uo=4",
       "agencyFullName": "SINGAPORE TOURISM BOARD",
+      "appStoreAverageUserRating": 4.5,
       "appName": "Visit Singapore Travel Guide"
     },
     {
-      "playStore": {
-        "userRatingCount": 13,
-        "averageUserRating": 4.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ministry+of+Manpower",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mom.dormwatch"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-manpower/id518542249?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/dormwatch/id1429488237?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF MANPOWER",
-      "appName": "DormWatch"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 4.8,
+      "appName": "DormWatch",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/dormwatch/id1429488237?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mom.dormwatch",
+      "playStoreUserRatingCount": 13,
+      "agencyFullName": "MINISTRY OF MANPOWER"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-education-singapore/id852187844?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/c-sp-2a/id1082966887?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/c-sp-2a/id1082966887?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF EDUCATION",
+      "appStoreAverageUserRating": 0,
       "appName": "C(SP) 2A"
     },
     {
-      "appStore": {
-        "userRatingCount": 14,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/parliament-of-singapore/id473177332?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sg-parl/id473177329?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 14,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sg-parl/id473177329?mt=8&uo=4",
       "agencyFullName": "PARLIAMENT OF SINGAPORE",
+      "appStoreAverageUserRating": 3.5,
       "appName": "SG Parl"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-education-singapore/id852187844?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/c-sp-2b/id1196268378?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/c-sp-2b/id1196268378?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF EDUCATION",
+      "appStoreAverageUserRating": 0,
       "appName": "C(SP) 2B"
     },
     {
-      "playStore": {
-        "userRatingCount": 6,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=JTC+Corporation",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.jtc.app.mobile.feedback"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/jtc-corporation/id477667158?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/report-a-fault/id1145216739?mt=8&uo=4"
-      },
-      "agencyFullName": "JTC CORPORATION",
-      "appName": "Report-A-Fault"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 4.0,
+      "appName": "Report-A-Fault",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/report-a-fault/id1145216739?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.jtc.app.mobile.feedback",
+      "playStoreUserRatingCount": 6,
+      "agencyFullName": "JTC CORPORATION"
     },
     {
-      "playStore": {
-        "userRatingCount": 161,
-        "averageUserRating": 3.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Accountant-General%27s+Department",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.neseapl.pacgov"
-      },
-      "appStore": {
-        "userRatingCount": 55,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/accountant-generals-department/id1108787647?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/pac-gov/id1177267613?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF FINANCE",
-      "appName": "PaC@Gov"
+      "appStoreUserRatingCount": 55,
+      "playStoreAverageUserRating": 3.6,
+      "appName": "PaC@Gov",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/pac-gov/id1177267613?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.neseapl.pacgov",
+      "playStoreUserRatingCount": 161,
+      "agencyFullName": "MINISTRY OF FINANCE"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cranial-nerves/id1166089584?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cranial-nerves/id1166089584?mt=8&uo=4",
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "Cranial Nerves"
     },
     {
-      "playStore": {
-        "userRatingCount": 2,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.resus"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/resus/id1187789282?mt=8&uo=4"
-      },
-      "agencyFullName": "NGEE ANN POLYTECHNIC",
-      "appName": "RESUS"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 5.0,
+      "appName": "RESUS",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/resus/id1187789282?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.resus",
+      "playStoreUserRatingCount": 2,
+      "agencyFullName": "NGEE ANN POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 6,
-        "averageUserRating": 4.3,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.BakaUnited.Demushi"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.BakaUnited.Demushi",
+      "playStoreUserRatingCount": 6,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 4.3,
       "appName": "SGCC2017 ECOS, The Guardian of the Galaxy!"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/land-transport-authority-singapore/id480951213?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/getting-there-together-with-u/id1010523448?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/getting-there-together-with-u/id1010523448?mt=8&uo=4",
       "agencyFullName": "LAND TRANSPORT AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "Getting There Together with U!"
     },
     {
-      "playStore": {
-        "userRatingCount": 574,
-        "averageUserRating": 3.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.ndi.sp"
-      },
-      "appStore": {
-        "userRatingCount": 182,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/singpass-mobile/id1340660807?mt=8&uo=4"
-      },
-      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
-      "appName": "SingPass Mobile"
+      "appStoreUserRatingCount": 182,
+      "playStoreAverageUserRating": 3.4,
+      "appName": "SingPass Mobile",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/singpass-mobile/id1340660807?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.ndi.sp",
+      "playStoreUserRatingCount": 574,
+      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/cck/id536157349?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cw-events/id1373632601?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cw-events/id1373632601?mt=8&uo=4",
       "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "CW Events"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.mobilefm.np.np_apps"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/np-apps-container/id1413564315?mt=8&uo=4"
-      },
-      "agencyFullName": "NGEE ANN POLYTECHNIC",
-      "appName": "NP Apps Container"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "NP Apps Container",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/np-apps-container/id1413564315?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.mobilefm.np.np_apps",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "NGEE ANN POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=SIDM,+Nanyang+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.SIDM.IVolunteer"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.SIDM.IVolunteer",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 0,
       "appName": "iVolunteers"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.skelepracti"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/skelepracti/id409988859?mt=8&uo=4"
-      },
-      "agencyFullName": "NGEE ANN POLYTECHNIC",
-      "appName": "SkelePracti"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "SkelePracti",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/skelepracti/id409988859?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.skelepracti",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "NGEE ANN POLYTECHNIC"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/cck/id536157349?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/ite-handbook/id1232536955?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/ite-handbook/id1232536955?mt=8&uo=4",
       "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "ITE Handbook"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/republicpolytechnic/id898718693?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/wheels-ubin-2018/id1331302997?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/wheels-ubin-2018/id1331302997?mt=8&uo=4",
       "agencyFullName": "REPUBLIC POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "Wheels@Ubin 2018"
     },
     {
-      "playStore": {
-        "userRatingCount": 2425,
-        "averageUserRating": 3.7,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=National+Environment+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.nea"
-      },
-      "appStore": {
-        "userRatingCount": 325,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/national-environment-agency/id444435185?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/myenv/id444435182?mt=8&uo=4"
-      },
-      "agencyFullName": "NATIONAL ENVIRONMENT AGENCY",
-      "appName": "myENV"
+      "appStoreUserRatingCount": 325,
+      "playStoreAverageUserRating": 3.7,
+      "appName": "myENV",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/myenv/id444435182?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.nea",
+      "playStoreUserRatingCount": 2425,
+      "agencyFullName": "NATIONAL ENVIRONMENT AGENCY"
     },
     {
-      "appStore": {
-        "userRatingCount": 47,
-        "averageUserRating": 2.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/national-library-board-singapore/id411883166?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/ihuayu-%E8%AE%B2%E5%8D%8E%E8%AF%AD-%E5%95%86%E7%94%A8/id541015355?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 47,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/ihuayu-%E8%AE%B2%E5%8D%8E%E8%AF%AD-%E5%95%86%E7%94%A8/id541015355?mt=8&uo=4",
       "agencyFullName": "NATIONAL LIBRARY BOARD",
+      "appStoreAverageUserRating": 2.0,
       "appName": "iHuayu \u8bb2\u534e\u8bed\uff08\u5546\u7528\uff09"
     },
     {
-      "playStore": {
-        "userRatingCount": 29,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.smallIndieGameCompany.Show_him_the_light"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.smallIndieGameCompany.Show_him_the_light",
+      "playStoreUserRatingCount": 29,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 5.0,
       "appName": "SGCC2018 Show him the light"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/cck/id536157349?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/soh-itecw/id1230855652?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/soh-itecw/id1230855652?mt=8&uo=4",
       "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "SOH ITECW"
     },
     {
-      "playStore": {
-        "userRatingCount": 9,
-        "averageUserRating": 4.3,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=MSF+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.ida.dfcs2"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-social-and-family-development/id612976888?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/family-and-social-services/id707274893?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT",
-      "appName": "Family and Social Services"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 4.3,
+      "appName": "Family and Social Services",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/family-and-social-services/id707274893?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.ida.dfcs2",
+      "playStoreUserRatingCount": 9,
+      "agencyFullName": "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT"
     },
     {
-      "playStore": {
-        "userRatingCount": 35,
-        "averageUserRating": 4.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=JTC+Corporation",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.onenorth.mobile"
-      },
-      "appStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/jtc-corporation/id477667158?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/one-north/id1046416283?mt=8&uo=4"
-      },
-      "agencyFullName": "JTC CORPORATION",
-      "appName": "one-north"
+      "appStoreUserRatingCount": 5,
+      "playStoreAverageUserRating": 4.4,
+      "appName": "one-north",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/one-north/id1046416283?mt=8&uo=4",
+      "appStoreAverageUserRating": 5.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.onenorth.mobile",
+      "playStoreUserRatingCount": 35,
+      "agencyFullName": "JTC CORPORATION"
     },
     {
-      "appStore": {
-        "userRatingCount": 7,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/red-camp/id1388741482?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 7,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/red-camp/id1388741482?mt=8&uo=4",
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "appStoreAverageUserRating": 2.5,
       "appName": "RED Camp"
     },
     {
-      "playStore": {
-        "userRatingCount": 240,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Immigration+%26+Checkpoints+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.ica.eappt"
-      },
-      "appStore": {
-        "userRatingCount": 18,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/immigration-checkpoints-authority-of-singapore/id1071195474?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/eappt-ica/id1071195475?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HOME AFFAIRS",
-      "appName": "eAppt@ICA"
+      "appStoreUserRatingCount": 18,
+      "playStoreAverageUserRating": 4.0,
+      "appName": "eAppt@ICA",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/eappt-ica/id1071195475?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.ica.eappt",
+      "playStoreUserRatingCount": 240,
+      "agencyFullName": "MINISTRY OF HOME AFFAIRS"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.np.instructor"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.np.instructor",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "playStoreAverageUserRating": 0,
       "appName": "WB Attendance"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/hshospital2/id1104838970?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/hshospital2/id1104838970?mt=8&uo=4",
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "HSHospital2"
     },
     {
-      "playStore": {
-        "userRatingCount": 88,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.student"
-      },
-      "appStore": {
-        "userRatingCount": 34,
-        "averageUserRating": 2.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mstudent/id1065511743?mt=8&uo=4"
-      },
-      "agencyFullName": "NGEE ANN POLYTECHNIC",
-      "appName": "mStudent"
+      "appStoreUserRatingCount": 34,
+      "playStoreAverageUserRating": 2.5,
+      "appName": "mStudent",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mstudent/id1065511743?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.student",
+      "playStoreUserRatingCount": 88,
+      "agencyFullName": "NGEE ANN POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 22,
-        "averageUserRating": 4.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ministry+of+Manpower",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mom.SnapSafe"
-      },
-      "appStore": {
-        "userRatingCount": 6,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-manpower/id518542249?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/snapsafe/id1245498483?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF MANPOWER",
-      "appName": "SnapSAFE"
+      "appStoreUserRatingCount": 6,
+      "playStoreAverageUserRating": 4.1,
+      "appName": "SnapSAFE",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/snapsafe/id1245498483?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mom.SnapSafe",
+      "playStoreUserRatingCount": 22,
+      "agencyFullName": "MINISTRY OF MANPOWER"
     },
     {
-      "playStore": {
-        "userRatingCount": 31,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.yongtheskill.taleofobecity"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.yongtheskill.taleofobecity",
+      "playStoreUserRatingCount": 31,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 5.0,
       "appName": "SGCC2018 The Tale of Obecity"
     },
     {
-      "playStore": {
-        "userRatingCount": 424,
-        "averageUserRating": 3.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Sentosa+Leisure+Management",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.mysentosa.android.sg"
-      },
-      "appStore": {
-        "userRatingCount": 29,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/sentosa-leisure-management-pte-ltd/id535117754?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mysentosa/id535117751?mt=8&uo=4"
-      },
-      "agencyFullName": "SENTOSA DEVELOPMENT CORPORATION",
-      "appName": "MySentosa"
+      "appStoreUserRatingCount": 29,
+      "playStoreAverageUserRating": 3.9,
+      "appName": "MySentosa",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mysentosa/id535117751?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.mysentosa.android.sg",
+      "playStoreUserRatingCount": 424,
+      "agencyFullName": "SENTOSA DEVELOPMENT CORPORATION"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/wireless-sgx-sender-app/id1448121774?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/wireless-sgx-sender-app/id1448121774?mt=8&uo=4",
       "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
+      "appStoreAverageUserRating": 0,
       "appName": "Wireless@SGx Sender App"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/temasek-polytechnic/id1007897538?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mindworks-brain-training/id1429515219?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mindworks-brain-training/id1429515219?mt=8&uo=4",
       "agencyFullName": "TEMASEK POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "MindWorks Brain Training"
     },
     {
-      "playStore": {
-        "userRatingCount": 2,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=iAPPS+Pte+Ltd",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.merchant.app.merchant"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/iapps-pte-ltd/id597193482?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/activewallet/id1384915584?mt=8&uo=4"
-      },
-      "agencyFullName": "SPORT SINGAPORE",
-      "appName": "ActiveWallet"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 5.0,
+      "appName": "ActiveWallet",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/activewallet/id1384915584?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.merchant.app.merchant",
+      "playStoreUserRatingCount": 2,
+      "agencyFullName": "SPORT SINGAPORE"
     },
     {
-      "playStore": {
-        "userRatingCount": 95,
-        "averageUserRating": 3.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=People%27s+Association",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=gov.oth.sg.OTHMobile"
-      },
-      "appStore": {
-        "userRatingCount": 15,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/peoples-association/id423739103?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/our-tampines-hub/id1136080828?mt=8&uo=4"
-      },
-      "agencyFullName": "PEOPLE'S ASSOCIATION",
-      "appName": "Our Tampines Hub"
+      "appStoreUserRatingCount": 15,
+      "playStoreAverageUserRating": 3.4,
+      "appName": "Our Tampines Hub",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/our-tampines-hub/id1136080828?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=gov.oth.sg.OTHMobile",
+      "playStoreUserRatingCount": 95,
+      "agencyFullName": "PEOPLE'S ASSOCIATION"
     },
     {
-      "playStore": {
-        "userRatingCount": 4,
-        "averageUserRating": 3.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Temasek+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.tp.cis.tpstaffoneservice"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.tp.cis.tpstaffoneservice",
+      "playStoreUserRatingCount": 4,
       "agencyFullName": "TEMASEK POLYTECHNIC",
+      "playStoreAverageUserRating": 3.2,
       "appName": "TP Staff"
     },
     {
-      "playStore": {
-        "userRatingCount": 6,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=CPF+Board",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.cpf.cpfstarter"
-      },
-      "appStore": {
-        "userRatingCount": 80,
-        "averageUserRating": 4.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/central-provident-fund-board/id389277979?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cpf-starter/id995163955?mt=8&uo=4"
-      },
-      "agencyFullName": "CENTRAL PROVIDENT FUND BOARD",
-      "appName": "CPF Starter"
+      "appStoreUserRatingCount": 80,
+      "playStoreAverageUserRating": 4.0,
+      "appName": "CPF Starter",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cpf-starter/id995163955?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.cpf.cpfstarter",
+      "playStoreUserRatingCount": 6,
+      "agencyFullName": "CENTRAL PROVIDENT FUND BOARD"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/cck/id536157349?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cck-newsletter/id1061335099?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cck-newsletter/id1061335099?mt=8&uo=4",
       "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "CCK Newsletter"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.BusyMissy"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/busymissy/id587242316?mt=8&uo=4"
-      },
-      "agencyFullName": "NGEE ANN POLYTECHNIC",
-      "appName": "BusyMissy"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "BusyMissy",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/busymissy/id587242316?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.BusyMissy",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "NGEE ANN POLYTECHNIC"
     },
     {
-      "appStore": {
-        "userRatingCount": 8,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ldr-pte-ltd/id498223229?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/battle-for-singapore/id498223166?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 8,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/battle-for-singapore/id498223166?mt=8&uo=4",
       "agencyFullName": "NATIONAL HERITAGE BOARD",
+      "appStoreAverageUserRating": 5.0,
       "appName": "Battle For Singapore"
     },
     {
-      "playStore": {
-        "userRatingCount": 11,
-        "averageUserRating": 3.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Health+Services",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.eventrol.singhealth"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/singhealth-events-app/id1223315281?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HEALTH",
-      "appName": "SingHealth Events App"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 3.4,
+      "appName": "SingHealth Events App",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/singhealth-events-app/id1223315281?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.eventrol.singhealth",
+      "playStoreUserRatingCount": 11,
+      "agencyFullName": "MINISTRY OF HEALTH"
     },
     {
-      "playStore": {
-        "userRatingCount": 484,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Land+Transport+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.lta.taxitaxisg"
-      },
-      "appStore": {
-        "userRatingCount": 102,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/land-transport-authority-singapore/id480951213?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/taxi-taxi-sg/id939482252?mt=8&uo=4"
-      },
-      "agencyFullName": "LAND TRANSPORT AUTHORITY",
-      "appName": "Taxi-Taxi@SG"
+      "appStoreUserRatingCount": 102,
+      "playStoreAverageUserRating": 3.0,
+      "appName": "Taxi-Taxi@SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/taxi-taxi-sg/id939482252?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.lta.taxitaxisg",
+      "playStoreUserRatingCount": 484,
+      "agencyFullName": "LAND TRANSPORT AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 2,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Health+Services",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.crafd.SHARE"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/shre/id1053814587?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HEALTH",
-      "appName": "SHRE"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 5.0,
+      "appName": "SHRE",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/shre/id1053814587?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.crafd.SHARE",
+      "playStoreUserRatingCount": 2,
+      "agencyFullName": "MINISTRY OF HEALTH"
     },
     {
-      "playStore": {
-        "userRatingCount": 122,
-        "averageUserRating": 3.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Urban+Redevelopment+Authority+%28URA%29",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.ura.pmi2"
-      },
-      "appStore": {
-        "userRatingCount": 17,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/urban-redevelopment-authority-ura/id571242368?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/property-market-information/id573494340?mt=8&uo=4"
-      },
-      "agencyFullName": "URBAN REDEVELOPMENT AUTHORITY",
-      "appName": "Property Market Information"
+      "appStoreUserRatingCount": 17,
+      "playStoreAverageUserRating": 3.1,
+      "appName": "Property Market Information",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/property-market-information/id573494340?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.ura.pmi2",
+      "playStoreUserRatingCount": 122,
+      "agencyFullName": "URBAN REDEVELOPMENT AUTHORITY"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/jtc-corporation/id477667158?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/jtcsurveyfee/id510897368?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/jtcsurveyfee/id510897368?mt=8&uo=4",
       "agencyFullName": "JTC CORPORATION",
+      "appStoreAverageUserRating": 0,
       "appName": "JTCSurveyFee"
     },
     {
-      "playStore": {
-        "userRatingCount": 4,
-        "averageUserRating": 4.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Wizlearn+Technologies+Pte+Ltd",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.wizlearn.singhealth"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/asknlearn/id369556874?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/singhealth-elearning/id1298920805?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HEALTH",
-      "appName": "SingHealth eLearning"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 4.2,
+      "appName": "SingHealth eLearning",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/singhealth-elearning/id1298920805?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.wizlearn.singhealth",
+      "playStoreUserRatingCount": 4,
+      "agencyFullName": "MINISTRY OF HEALTH"
     },
     {
-      "playStore": {
-        "userRatingCount": 1058,
-        "averageUserRating": 2.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Health+Services",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.singhealth.healthbuddy"
-      },
-      "appStore": {
-        "userRatingCount": 152,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/health-buddy/id448572997?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HEALTH",
-      "appName": "Health Buddy"
+      "appStoreUserRatingCount": 152,
+      "playStoreAverageUserRating": 2.9,
+      "appName": "Health Buddy",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/health-buddy/id448572997?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.singhealth.healthbuddy",
+      "playStoreUserRatingCount": 1058,
+      "agencyFullName": "MINISTRY OF HEALTH"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/knee-buddy/id967131677?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/knee-buddy/id967131677?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF HEALTH",
+      "appStoreAverageUserRating": 0,
       "appName": "Knee Buddy"
     },
     {
-      "playStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.mucite.weswessibo.earlychildhood"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.mucite.weswessibo.earlychildhood",
+      "playStoreUserRatingCount": 5,
       "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
+      "playStoreAverageUserRating": 5.0,
       "appName": "Early Childhood"
     },
     {
-      "playStore": {
-        "userRatingCount": 13,
-        "averageUserRating": 4.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.shatterbox.HealthMayhem"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.shatterbox.HealthMayhem",
+      "playStoreUserRatingCount": 13,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 4.9,
       "appName": "SGCC2018 Health Mayhem"
     },
     {
-      "playStore": {
-        "userRatingCount": 90,
-        "averageUserRating": 2.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=SkillsFuture+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.skillsfuture.msf"
-      },
-      "appStore": {
-        "userRatingCount": 27,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/skillsfuturesg/id1256315704?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/myskillsfuture/id1256315705?mt=8&uo=4"
-      },
-      "agencyFullName": "SKILLS FUTURE SINGAPORE",
-      "appName": "MySkillsFuture"
+      "appStoreUserRatingCount": 27,
+      "playStoreAverageUserRating": 2.1,
+      "appName": "MySkillsFuture",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/myskillsfuture/id1256315705?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.skillsfuture.msf",
+      "playStoreUserRatingCount": 90,
+      "agencyFullName": "SKILLS FUTURE SINGAPORE"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Building+And+Construction+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.bca.arir"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/building-construction-authority/id655408961?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/bca-incident-notification/id1107377605?mt=8&uo=4"
-      },
-      "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
-      "appName": "BCA Incident Notification"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "BCA Incident Notification",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/bca-incident-notification/id1107377605?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.bca.arir",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 1191,
-        "averageUserRating": 2.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ministry+of+Home+Affairs+%28Singapore%29",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.ministryofhomeaffairs.sgsecure.mhasg"
-      },
-      "appStore": {
-        "userRatingCount": 368,
-        "averageUserRating": 2.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-home-affairs/id529023153?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sgsecure/id1095191664?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HOME AFFAIRS",
-      "appName": "SGSecure"
+      "appStoreUserRatingCount": 368,
+      "playStoreAverageUserRating": 2.6,
+      "appName": "SGSecure",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sgsecure/id1095191664?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.ministryofhomeaffairs.sgsecure.mhasg",
+      "playStoreUserRatingCount": 1191,
+      "agencyFullName": "MINISTRY OF HOME AFFAIRS"
     },
     {
-      "playStore": {
-        "userRatingCount": 108,
-        "averageUserRating": 2.3,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Temasek+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.tp.cis.tpossmobile"
-      },
-      "appStore": {
-        "userRatingCount": 32,
-        "averageUserRating": 2.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/temasek-polytechnic/id1007897538?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/tp-student/id1007897539?mt=8&uo=4"
-      },
-      "agencyFullName": "TEMASEK POLYTECHNIC",
-      "appName": "TP Student"
+      "appStoreUserRatingCount": 32,
+      "playStoreAverageUserRating": 2.3,
+      "appName": "TP Student",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/tp-student/id1007897539?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.tp.cis.tpossmobile",
+      "playStoreUserRatingCount": 108,
+      "agencyFullName": "TEMASEK POLYTECHNIC"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/cck/id536157349?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cw-channel/id1061432545?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cw-channel/id1061432545?mt=8&uo=4",
       "agencyFullName": "INFO-COMMUNICATIONS MEDIA DEVELOPMENT AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "CW Channel"
     },
     {
-      "playStore": {
-        "userRatingCount": 80,
-        "averageUserRating": 2.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=CEA",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.codigo.cea"
-      },
-      "appStore": {
-        "userRatingCount": 18,
-        "averageUserRating": 1.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/council-for-estate-agencies/id557473135?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cea-sg/id557473132?mt=8&uo=4"
-      },
-      "agencyFullName": "COUNCIL FOR ESTATE AGENCIES",
-      "appName": "CEA@SG"
+      "appStoreUserRatingCount": 18,
+      "playStoreAverageUserRating": 2.4,
+      "appName": "CEA@SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cea-sg/id557473132?mt=8&uo=4",
+      "appStoreAverageUserRating": 1.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.codigo.cea",
+      "playStoreUserRatingCount": 80,
+      "agencyFullName": "COUNCIL FOR ESTATE AGENCIES"
     },
     {
-      "playStore": {
-        "userRatingCount": 35,
-        "averageUserRating": 3.7,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=PUB,+Singapore%27s+National+Water+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.codigo.pub.mywaters"
-      },
-      "appStore": {
-        "userRatingCount": 22,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/public-utilities-board/id443115725?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mywaters/id533051315?mt=8&uo=4"
-      },
-      "agencyFullName": "PUB, SINGAPORE'S NATIONAL WATER AGENCY",
-      "appName": "MyWaters"
+      "appStoreUserRatingCount": 22,
+      "playStoreAverageUserRating": 3.7,
+      "appName": "MyWaters",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mywaters/id533051315?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.codigo.pub.mywaters",
+      "playStoreUserRatingCount": 35,
+      "agencyFullName": "PUB, SINGAPORE'S NATIONAL WATER AGENCY"
     },
     {
-      "playStore": {
-        "userRatingCount": 635,
-        "averageUserRating": 3.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=National+Library+Board,+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"
-      },
-      "appStore": {
-        "userRatingCount": 214,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/national-library-board-singapore/id411883166?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8&uo=4"
-      },
-      "agencyFullName": "NATIONAL LIBRARY BOARD",
-      "appName": "NLB Mobile \u2022"
+      "appStoreUserRatingCount": 214,
+      "playStoreAverageUserRating": 3.1,
+      "appName": "NLB Mobile \u2022",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile",
+      "playStoreUserRatingCount": 635,
+      "agencyFullName": "NATIONAL LIBRARY BOARD"
     },
     {
-      "playStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 2.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Wizlearn+Technologies+Pte+Ltd",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.anl.wizlearnapp_nja"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.anl.wizlearnapp_nja",
+      "playStoreUserRatingCount": 5,
       "agencyFullName": "MINISTRY OF HEALTH",
+      "playStoreAverageUserRating": 2.2,
       "appName": "eLEARN LMS"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=ar.pjt.biplane"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=ar.pjt.biplane",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
+      "playStoreAverageUserRating": 0,
       "appName": "TED 10th Anniversary"
     },
     {
-      "playStore": {
-        "userRatingCount": 42,
-        "averageUserRating": 2.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Customs",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=org.customs.gov.sg"
-      },
-      "appStore": {
-        "userRatingCount": 12,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-customs/id1062502467?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/customs-sg/id1062502468?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF FINANCE",
-      "appName": "Customs@SG"
+      "appStoreUserRatingCount": 12,
+      "playStoreAverageUserRating": 2.8,
+      "appName": "Customs@SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/customs-sg/id1062502468?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=org.customs.gov.sg",
+      "playStoreUserRatingCount": 42,
+      "agencyFullName": "MINISTRY OF FINANCE"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.npalm"
-      },
-      "appStore": {
-        "userRatingCount": 17,
-        "averageUserRating": 1.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/npalm/id990918927?mt=8&uo=4"
-      },
-      "agencyFullName": "NGEE ANN POLYTECHNIC",
-      "appName": "NPalm"
+      "appStoreUserRatingCount": 17,
+      "playStoreAverageUserRating": 0,
+      "appName": "NPalm",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/npalm/id990918927?mt=8&uo=4",
+      "appStoreAverageUserRating": 1.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.npalm",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "NGEE ANN POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.ite.cc"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/murugesan-latha/id1127236777?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cc-seit-vr-tour/id1350616548?mt=8&uo=4"
-      },
-      "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
-      "appName": "CC SEIT VR Tour"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "CC SEIT VR Tour",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cc-seit-vr-tour/id1350616548?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.ite.cc",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION"
     },
     {
-      "playStore": {
-        "userRatingCount": 3,
-        "averageUserRating": 2.3,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=People%27s+Association",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.pa.palms"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/peoples-association/id423739103?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/peoples-association-lms/id1201637430?mt=8&uo=4"
-      },
-      "agencyFullName": "PEOPLE'S ASSOCIATION",
-      "appName": "People's Association LMS"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 2.3,
+      "appName": "People's Association LMS",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/peoples-association-lms/id1201637430?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.pa.palms",
+      "playStoreUserRatingCount": 3,
+      "agencyFullName": "PEOPLE'S ASSOCIATION"
     },
     {
-      "appStore": {
-        "userRatingCount": 122,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/hclinsys-sg/id979139703?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/muis-oom/id514823490?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 122,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/muis-oom/id514823490?mt=8&uo=4",
       "agencyFullName": "MAJLIS UGAMA ISLAM, SINGAPURA",
+      "appStoreAverageUserRating": 2.5,
       "appName": "MUIS:OOM"
     },
     {
-      "playStore": {
-        "userRatingCount": 4,
-        "averageUserRating": 3.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Civil+Aviation+Authority+of+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=org.caas.dme"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=org.caas.dme",
+      "playStoreUserRatingCount": 4,
       "agencyFullName": "CIVIL AVIATION AUTHORITY OF SINGAPORE",
+      "playStoreAverageUserRating": 3.8,
       "appName": "DME Finder"
     },
     {
-      "appStore": {
-        "userRatingCount": 25,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/beeline-sg/id1010615256?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 25,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/beeline-sg/id1010615256?mt=8&uo=4",
       "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
+      "appStoreAverageUserRating": 2.5,
       "appName": "Beeline SG"
     },
     {
-      "playStore": {
-        "userRatingCount": 81,
-        "averageUserRating": 2.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ministry+of+Education+%28Singapore%29",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.moe.pgp"
-      },
-      "appStore": {
-        "userRatingCount": 32,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-education-singapore/id852187844?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF EDUCATION",
-      "appName": "Parents Gateway"
+      "appStoreUserRatingCount": 32,
+      "playStoreAverageUserRating": 2.9,
+      "appName": "Parents Gateway",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.moe.pgp",
+      "playStoreUserRatingCount": 81,
+      "agencyFullName": "MINISTRY OF EDUCATION"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.masa"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.masa",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
+      "playStoreAverageUserRating": 0,
       "appName": "Early Childhood AR"
     },
     {
-      "appStore": {
-        "userRatingCount": 50,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-land-authority/id1068341642?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/onemap-sg/id1244720012?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 50,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/onemap-sg/id1244720012?mt=8&uo=4",
       "agencyFullName": "SINGAPORE LAND AUTHORITY",
+      "appStoreAverageUserRating": 2.5,
       "appName": "OneMap SG"
     },
     {
-      "appStore": {
-        "userRatingCount": 247,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/nanyang-polytechnic/id370531175?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/whereto-sg/id395982564?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 247,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/whereto-sg/id395982564?mt=8&uo=4",
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "appStoreAverageUserRating": 3.0,
       "appName": "WhereTo.sg"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/building-construction-authority/id655408961?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/corenet-e-info/id1093111429?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/corenet-e-info/id1093111429?mt=8&uo=4",
       "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "CORENET E-Info"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-education-singapore/id852187844?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/csp3a/id1199461956?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/csp3a/id1199461956?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF EDUCATION",
+      "appStoreAverageUserRating": 0,
       "appName": "CSP3A"
     },
     {
-      "playStore": {
-        "userRatingCount": 14,
-        "averageUserRating": 4.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=chs.ion7.sgcc"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=chs.ion7.sgcc",
+      "playStoreUserRatingCount": 14,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 4.9,
       "appName": "SGCC2018 Vegetal Ventures"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/asthmacare-buddy/id570607526?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/asthmacare-buddy/id570607526?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF HEALTH",
+      "appStoreAverageUserRating": 0,
       "appName": "AsthmaCare Buddy"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=School+of+Engineering,+Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=edu.np.ece.elderlytrack"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=edu.np.ece.elderlytrack",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "playStoreAverageUserRating": 0,
       "appName": "ElderlyTrack"
     },
     {
-      "appStore": {
-        "userRatingCount": 116,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/peoples-association/id423739103?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/passion-card/id423739100?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 116,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/passion-card/id423739100?mt=8&uo=4",
       "agencyFullName": "PEOPLE'S ASSOCIATION",
+      "appStoreAverageUserRating": 2.5,
       "appName": "PAssion Card"
     },
     {
-      "playStore": {
-        "userRatingCount": 2,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.npcc.npalert"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/alert-np/id1401873402?mt=8&uo=4"
-      },
-      "agencyFullName": "NGEE ANN POLYTECHNIC",
-      "appName": "Alert@NP"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 4.0,
+      "appName": "Alert@NP",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/alert-np/id1401873402?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.npcc.npalert",
+      "playStoreUserRatingCount": 2,
+      "agencyFullName": "NGEE ANN POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 2,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.video360"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/murugesan-latha/id1127236777?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/ite-vr-garden/id1276547054?mt=8&uo=4"
-      },
-      "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
-      "appName": "ITE VR Garden"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 5.0,
+      "appName": "ITE VR Garden",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/ite-vr-garden/id1276547054?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.video360",
+      "playStoreUserRatingCount": 2,
+      "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/national-heritage-board/id601295061?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/asian-civilisations-museum/id1054235413?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/asian-civilisations-museum/id1054235413?mt=8&uo=4",
       "agencyFullName": "NATIONAL HERITAGE BOARD",
+      "appStoreAverageUserRating": 0,
       "appName": "Asian Civilisations Museum"
     },
     {
-      "playStore": {
-        "userRatingCount": 67,
-        "averageUserRating": 2.3,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=ACCOUNTING+AND+CORPORATE+REGULATORY+AUTHORITY",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.acra.ACRAOnTheGo"
-      },
-      "appStore": {
-        "userRatingCount": 19,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/acra-singapore/id430149542?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/acra-on-the-go/id430149539?mt=8&uo=4"
-      },
-      "agencyFullName": "ACCOUNTING AND CORPORATE REGULATORY AUTHORITY",
-      "appName": "ACRA On The Go"
+      "appStoreUserRatingCount": 19,
+      "playStoreAverageUserRating": 2.3,
+      "appName": "ACRA On The Go",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/acra-on-the-go/id430149539?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.acra.ACRAOnTheGo",
+      "playStoreUserRatingCount": 67,
+      "agencyFullName": "ACCOUNTING AND CORPORATE REGULATORY AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 383,
-        "averageUserRating": 3.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Police+Force",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.spf.policesg"
-      },
-      "appStore": {
-        "userRatingCount": 122,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-police-force/id440171324?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/police-sg/id472603758?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HOME AFFAIRS",
-      "appName": "Police@SG"
+      "appStoreUserRatingCount": 122,
+      "playStoreAverageUserRating": 3.9,
+      "appName": "Police@SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/police-sg/id472603758?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.spf.policesg",
+      "playStoreUserRatingCount": 383,
+      "agencyFullName": "MINISTRY OF HOME AFFAIRS"
     },
     {
-      "playStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 4.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Health+Services",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.kkh1.app"
-      },
-      "appStore": {
-        "userRatingCount": 24,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/woman-child-healthpedia/id434360169?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HEALTH",
-      "appName": "Woman&Child HealthPedia"
+      "appStoreUserRatingCount": 24,
+      "playStoreAverageUserRating": 4.4,
+      "appName": "Woman&Child HealthPedia",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/woman-child-healthpedia/id434360169?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.kkh1.app",
+      "playStoreUserRatingCount": 5,
+      "agencyFullName": "MINISTRY OF HEALTH"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/monetary-authority-of-singapore/id1362976661?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/oneconnect/id1362976662?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/oneconnect/id1362976662?mt=8&uo=4",
       "agencyFullName": "MONETARY AUTHORITY OF SINGAPORE",
+      "appStoreAverageUserRating": 0,
       "appName": "oneConnect"
     },
     {
-      "playStore": {
-        "userRatingCount": 1450,
-        "averageUserRating": 3.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Health+Promotion+Board",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub"
-      },
-      "appStore": {
-        "userRatingCount": 317,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/health-promotion-board/id470823074?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/healthhub-sg/id1034200875?mt=8&uo=4"
-      },
-      "agencyFullName": "HEALTH PROMOTION BOARD",
-      "appName": "HealthHub SG"
+      "appStoreUserRatingCount": 317,
+      "playStoreAverageUserRating": 3.6,
+      "appName": "HealthHub SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/healthhub-sg/id1034200875?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub",
+      "playStoreUserRatingCount": 1450,
+      "agencyFullName": "HEALTH PROMOTION BOARD"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/housing-development-board/id425341803?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/yolo-neighbour/id866775541?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/yolo-neighbour/id866775541?mt=8&uo=4",
       "agencyFullName": "HOUSING & DEVELOPMENT BOARD",
+      "appStoreAverageUserRating": 0,
       "appName": "YOLO Neighbour"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/beeline-driver/id1131152564?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/beeline-driver/id1131152564?mt=8&uo=4",
       "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
+      "appStoreAverageUserRating": 0,
       "appName": "Beeline Driver"
     },
     {
-      "appStore": {
-        "userRatingCount": 12,
-        "averageUserRating": 1.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/national-parks-board/id975080922?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sgbioatlas/id975080923?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 12,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sgbioatlas/id975080923?mt=8&uo=4",
       "agencyFullName": "NATIONAL PARKS BOARD",
+      "appStoreAverageUserRating": 1.5,
       "appName": "SGBioAtlas"
     },
     {
-      "playStore": {
-        "userRatingCount": 8,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.unknown.GuardianOfEarth"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.unknown.GuardianOfEarth",
+      "playStoreUserRatingCount": 8,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 5.0,
       "appName": "SGCC2017 Guardian Of Earth"
     },
     {
-      "playStore": {
-        "userRatingCount": 6,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.HSHospital2"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.HSHospital2",
+      "playStoreUserRatingCount": 6,
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "playStoreAverageUserRating": 2.5,
       "appName": "Virtual Hospital 2"
     },
     {
-      "playStore": {
-        "userRatingCount": 39,
-        "averageUserRating": 2.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.sla.hrkiosk"
-      },
-      "appStore": {
-        "userRatingCount": 14,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/my-hr-kiosk/id1084593996?mt=8&uo=4"
-      },
-      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
-      "appName": "My HR Kiosk"
+      "appStoreUserRatingCount": 14,
+      "playStoreAverageUserRating": 2.9,
+      "appName": "My HR Kiosk",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/my-hr-kiosk/id1084593996?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.sla.hrkiosk",
+      "playStoreUserRatingCount": 39,
+      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY"
     },
     {
-      "playStore": {
-        "userRatingCount": 79,
-        "averageUserRating": 4.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Maritime+and+Port+Authority+of+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mpa.marinet"
-      },
-      "appStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 4.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/maritime-and-port-authority-of-singapore/id895843513?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mymaritime-sg/id895843510?mt=8&uo=4"
-      },
-      "agencyFullName": "MARITIME AND PORT AUTHORITY OF SINGAPORE",
-      "appName": "myMaritime@SG"
+      "appStoreUserRatingCount": 5,
+      "playStoreAverageUserRating": 4.1,
+      "appName": "myMaritime@SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mymaritime-sg/id895843510?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mpa.marinet",
+      "playStoreUserRatingCount": 79,
+      "agencyFullName": "MARITIME AND PORT AUTHORITY OF SINGAPORE"
     },
     {
-      "playStore": {
-        "userRatingCount": 8,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sp.edu.sg.smn"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sp.edu.sg.smn",
+      "playStoreUserRatingCount": 8,
       "agencyFullName": "SINGAPORE POLYTECHNIC",
+      "playStoreAverageUserRating": 3.5,
       "appName": "SP Engineering Show"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/civil-service-college/id1251778080?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/csc-events/id1251778081?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/csc-events/id1251778081?mt=8&uo=4",
       "agencyFullName": "CIVIL SERVICE COLLEGE",
+      "appStoreAverageUserRating": 0,
       "appName": "CSC Events"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Land+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.inlisapp"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.inlisapp",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "SINGAPORE LAND AUTHORITY",
+      "playStoreAverageUserRating": 0,
       "appName": "INLIS"
     },
     {
-      "playStore": {
-        "userRatingCount": 889,
-        "averageUserRating": 3.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Land+Transport+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg"
-      },
-      "appStore": {
-        "userRatingCount": 182,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/land-transport-authority-singapore/id480951213?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mytransport-sg/id1306661188?mt=8&uo=4"
-      },
-      "agencyFullName": "LAND TRANSPORT AUTHORITY",
-      "appName": "MyTransport.SG"
+      "appStoreUserRatingCount": 182,
+      "playStoreAverageUserRating": 3.1,
+      "appName": "MyTransport.SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mytransport-sg/id1306661188?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg",
+      "playStoreUserRatingCount": 889,
+      "agencyFullName": "LAND TRANSPORT AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Monetary+Authority+of+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.isscmg.oneconnect"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.isscmg.oneconnect",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "MONETARY AUTHORITY OF SINGAPORE",
+      "playStoreAverageUserRating": 0,
       "appName": "MASConnect"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-tourism-board/id377187145?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/merlion-stickers/id1156043750?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/merlion-stickers/id1156043750?mt=8&uo=4",
       "agencyFullName": "SINGAPORE TOURISM BOARD",
+      "appStoreAverageUserRating": 0,
       "appName": "Merlion Stickers"
     },
     {
-      "playStore": {
-        "userRatingCount": 244,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Civil+Defence+Force",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp"
-      },
-      "appStore": {
-        "userRatingCount": 41,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-civil-defence-force/id983494390?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/myresponder/id983494391?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HOME AFFAIRS",
-      "appName": "myResponder"
+      "appStoreUserRatingCount": 41,
+      "playStoreAverageUserRating": 4.0,
+      "appName": "myResponder",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/myresponder/id983494391?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp",
+      "playStoreUserRatingCount": 244,
+      "agencyFullName": "MINISTRY OF HOME AFFAIRS"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=JTC+Corporation",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.appsapv2"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/jtc-corporation/id477667158?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/seletar-aerospace-park/id1245105129?mt=8&uo=4"
-      },
-      "agencyFullName": "JTC CORPORATION",
-      "appName": "Seletar Aerospace Park"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "Seletar Aerospace Park",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/seletar-aerospace-park/id1245105129?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.appsapv2",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "JTC CORPORATION"
     },
     {
-      "appStore": {
-        "userRatingCount": 8,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/npalm-nursing-assessment/id436299709?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 8,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/npalm-nursing-assessment/id436299709?mt=8&uo=4",
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "appStoreAverageUserRating": 2.5,
       "appName": "NPalm Nursing Assessment"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ite-college-east/id685277621?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/heart4life/id706733884?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/heart4life/id706733884?mt=8&uo=4",
       "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
+      "appStoreAverageUserRating": 0,
       "appName": "Heart4Life"
     },
     {
-      "playStore": {
-        "userRatingCount": 1,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.ARHeart"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.ARHeart",
+      "playStoreUserRatingCount": 1,
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "playStoreAverageUserRating": 5.0,
       "appName": "HS ARHeart"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Land+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.alternatevp.SLA"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-land-authority/id1068341642?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sla-vr/id1421632643?mt=8&uo=4"
-      },
-      "agencyFullName": "SINGAPORE LAND AUTHORITY",
-      "appName": "SLA VR"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "SLA VR",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sla-vr/id1421632643?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.alternatevp.SLA",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "SINGAPORE LAND AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 8,
-        "averageUserRating": 4.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Genytek",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.ohana.peoplego"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/genytek-pte-ltd/id1151262276?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/peoplego/id1257681284?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF MANPOWER",
-      "appName": "PeopleGo"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 4.6,
+      "appName": "PeopleGo",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/peoplego/id1257681284?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.ohana.peoplego",
+      "playStoreUserRatingCount": 8,
+      "agencyFullName": "MINISTRY OF MANPOWER"
     },
     {
-      "playStore": {
-        "userRatingCount": 4,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=MSF+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.msf.bbss"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-social-and-family-development/id612976888?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/baby-bonus-sg/id1172052323?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT",
-      "appName": "Baby Bonus SG"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 3.0,
+      "appName": "Baby Bonus SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/baby-bonus-sg/id1172052323?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.msf.bbss",
+      "playStoreUserRatingCount": 4,
+      "agencyFullName": "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT"
     },
     {
-      "appStore": {
-        "userRatingCount": 6,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/public-utilities-board/id443115725?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/save-my-water/id704075960?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 6,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/save-my-water/id704075960?mt=8&uo=4",
       "agencyFullName": "PUB, SINGAPORE'S NATIONAL WATER AGENCY",
+      "appStoreAverageUserRating": 3.5,
       "appName": "Save My Water"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/murugesan-latha/id1127236777?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/campus-alive/id1127236778?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/campus-alive/id1127236778?mt=8&uo=4",
       "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
+      "appStoreAverageUserRating": 0,
       "appName": "Campus Alive!"
     },
     {
-      "playStore": {
-        "userRatingCount": 37,
-        "averageUserRating": 3.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Nanyang+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.nyp.nypconnect"
-      },
-      "appStore": {
-        "userRatingCount": 7,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/nanyang-polytechnic/id370531175?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/nyp-connect-alumni-friends/id987398844?mt=8&uo=4"
-      },
-      "agencyFullName": "NANYANG POLYTECHNIC",
-      "appName": "NYP Connect - Alumni & Friends"
+      "appStoreUserRatingCount": 7,
+      "playStoreAverageUserRating": 3.8,
+      "appName": "NYP Connect - Alumni & Friends",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/nyp-connect-alumni-friends/id987398844?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.nyp.nypconnect",
+      "playStoreUserRatingCount": 37,
+      "agencyFullName": "NANYANG POLYTECHNIC"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/ar-heart/id1440579811?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/ar-heart/id1440579811?mt=8&uo=4",
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "AR Heart"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ngee-ann-polytechnic/id359082393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cellcycle/id1166062830?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cellcycle/id1166062830?mt=8&uo=4",
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "CellCycle"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-police-force/id440171324?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/roadpro/id984448418?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/roadpro/id984448418?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF HOME AFFAIRS",
+      "appStoreAverageUserRating": 0,
       "appName": "RoadPro"
     },
     {
-      "appStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/nanyang-polytechnic/id370531175?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/jobs-courses-sirs/id627372197?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 5,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/jobs-courses-sirs/id627372197?mt=8&uo=4",
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "appStoreAverageUserRating": 5.0,
       "appName": "Jobs & Courses @SIRS"
     },
     {
-      "playStore": {
-        "userRatingCount": 1,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Building+And+Construction+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.neseapl.fbma"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/building-construction-authority/id655408961?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/find-your-friendly-building/id911704926?mt=8&uo=4"
-      },
-      "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
-      "appName": "Find Your Friendly Building"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 5.0,
+      "appName": "Find Your Friendly Building",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/find-your-friendly-building/id911704926?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.neseapl.fbma",
+      "playStoreUserRatingCount": 1,
+      "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 32,
-        "averageUserRating": 4.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Land+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.onemap.ohm"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.onemap.ohm",
+      "playStoreUserRatingCount": 32,
       "agencyFullName": "SINGAPORE LAND AUTHORITY",
+      "playStoreAverageUserRating": 4.1,
       "appName": "One Historical Map"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=ITE+College+Central",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.ARPrototyping"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/murugesan-latha/id1127236777?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/ar-prototyping/id1437484616?mt=8&uo=4"
-      },
-      "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION",
-      "appName": "AR Prototyping"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 0,
+      "appName": "AR Prototyping",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/ar-prototyping/id1437484616?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.ite.ARPrototyping",
+      "playStoreUserRatingCount": 0,
+      "agencyFullName": "INSTITUTE OF TECHNICAL EDUCATION"
     },
     {
-      "playStore": {
-        "userRatingCount": 7,
-        "averageUserRating": 3.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.sp.spifl"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-polytechnic/id410480187?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sp-ifl/id599841871?mt=8&uo=4"
-      },
-      "agencyFullName": "SINGAPORE POLYTECHNIC",
-      "appName": "SP IFL"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 3.6,
+      "appName": "SP IFL",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sp-ifl/id599841871?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.sp.spifl",
+      "playStoreUserRatingCount": 7,
+      "agencyFullName": "SINGAPORE POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 180,
-        "averageUserRating": 2.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ministry+of+Foreign+Affairs",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mfa"
-      },
-      "appStore": {
-        "userRatingCount": 46,
-        "averageUserRating": 1.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-foreign-affairs-republic-of-singapore/id516857664?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mfa-sg/id516857661?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF FOREIGN AFFAIRS",
-      "appName": "MFA@SG"
+      "appStoreUserRatingCount": 46,
+      "playStoreAverageUserRating": 2.9,
+      "appName": "MFA@SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mfa-sg/id516857661?mt=8&uo=4",
+      "appStoreAverageUserRating": 1.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mfa",
+      "playStoreUserRatingCount": 180,
+      "agencyFullName": "MINISTRY OF FOREIGN AFFAIRS"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=SIDM,+Nanyang+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.SIDM.TFWC"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.SIDM.TFWC",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 0,
       "appName": "The Future We Create"
     },
     {
-      "playStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Building+And+Construction+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.BCA.QualityMark"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/building-construction-authority/id655408961?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/quality-mark-homes/id655408958?mt=8&uo=4"
-      },
-      "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
-      "appName": "Quality Mark Homes"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 3.0,
+      "appName": "Quality Mark Homes",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/quality-mark-homes/id655408958?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.BCA.QualityMark",
+      "playStoreUserRatingCount": 5,
+      "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 377,
-        "averageUserRating": 3.9,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Meteorological+Service+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.weather.weatheratsg.production"
-      },
-      "appStore": {
-        "userRatingCount": 31,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/meteorological-service-singapore/id1091263496?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/weather-sg/id1091263497?mt=8&uo=4"
-      },
-      "agencyFullName": "NATIONAL ENVIRONMENT AGENCY",
-      "appName": "Weather@SG"
+      "appStoreUserRatingCount": 31,
+      "playStoreAverageUserRating": 3.9,
+      "appName": "Weather@SG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/weather-sg/id1091263497?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.weather.weatheratsg.production",
+      "playStoreUserRatingCount": 377,
+      "agencyFullName": "NATIONAL ENVIRONMENT AGENCY"
     },
     {
-      "playStore": {
-        "userRatingCount": 4,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ministry+of+National+Development+%28Singapore%29",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mnd.helpbuddy"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-national-development/id947274393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/helpbuddy/id1290155686?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF NATIONAL DEVELOPMENT",
-      "appName": "HelpBuddy"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 3.5,
+      "appName": "HelpBuddy",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/helpbuddy/id1290155686?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mnd.helpbuddy",
+      "playStoreUserRatingCount": 4,
+      "agencyFullName": "MINISTRY OF NATIONAL DEVELOPMENT"
     },
     {
-      "playStore": {
-        "userRatingCount": 10,
-        "averageUserRating": 3.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace"
-      },
-      "appStore": {
-        "userRatingCount": 6,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/dwp-mobile/id1329488106?mt=8&uo=4"
-      },
-      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
-      "appName": "DWP Mobile"
+      "appStoreUserRatingCount": 6,
+      "playStoreAverageUserRating": 3.6,
+      "appName": "DWP Mobile",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/dwp-mobile/id1329488106?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace",
+      "playStoreUserRatingCount": 10,
+      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/nanyang-polytechnic/id370531175?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/bp-matters/id1172700354?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/bp-matters/id1172700354?mt=8&uo=4",
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "appStoreAverageUserRating": 0,
       "appName": "BP Matters"
     },
     {
-      "playStore": {
-        "userRatingCount": 851,
-        "averageUserRating": 3.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Housing+%26+Development+Board,+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=hdb.android"
-      },
-      "appStore": {
-        "userRatingCount": 422,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/housing-development-board/id425341803?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mobile-hdb/id425341800?mt=8&uo=4"
-      },
-      "agencyFullName": "HOUSING & DEVELOPMENT BOARD",
-      "appName": "Mobile@HDB"
+      "appStoreUserRatingCount": 422,
+      "playStoreAverageUserRating": 3.6,
+      "appName": "Mobile@HDB",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mobile-hdb/id425341800?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=hdb.android",
+      "playStoreUserRatingCount": 851,
+      "agencyFullName": "HOUSING & DEVELOPMENT BOARD"
     },
     {
-      "playStore": {
-        "userRatingCount": 516,
-        "averageUserRating": 4.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ministry+of+Manpower",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mom.sgworkpass"
-      },
-      "appStore": {
-        "userRatingCount": 62,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-manpower/id518542249?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sgworkpass/id1274061632?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF MANPOWER",
-      "appName": "SGWorkPass"
+      "appStoreUserRatingCount": 62,
+      "playStoreAverageUserRating": 4.4,
+      "appName": "SGWorkPass",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sgworkpass/id1274061632?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mom.sgworkpass",
+      "playStoreUserRatingCount": 516,
+      "agencyFullName": "MINISTRY OF MANPOWER"
     },
     {
-      "playStore": {
-        "userRatingCount": 36,
-        "averageUserRating": 3.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Accountant-General%27s+Department",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.neseapl.vendorsgov"
-      },
-      "appStore": {
-        "userRatingCount": 12,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/accountant-generals-department/id1108787647?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/vendors-gov/id1108787648?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF FINANCE",
-      "appName": "Vendors@Gov"
+      "appStoreUserRatingCount": 12,
+      "playStoreAverageUserRating": 3.4,
+      "appName": "Vendors@Gov",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/vendors-gov/id1108787648?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.neseapl.vendorsgov",
+      "playStoreUserRatingCount": 36,
+      "agencyFullName": "MINISTRY OF FINANCE"
     },
     {
-      "playStore": {
-        "userRatingCount": 2,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Republic+Polytechnic+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.rp.fyp_fin_01"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.rp.fyp_fin_01",
+      "playStoreUserRatingCount": 2,
       "agencyFullName": "REPUBLIC POLYTECHNIC",
+      "playStoreAverageUserRating": 4.0,
       "appName": "Speech to sign"
     },
     {
-      "playStore": {
-        "userRatingCount": 6098,
-        "averageUserRating": 3.3,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Land+Transport+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.lta.mytransport"
-      },
-      "appStore": {
-        "userRatingCount": 646,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/land-transport-authority-singapore/id480951213?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/mytransport-singapore/id480951210?mt=8&uo=4"
-      },
-      "agencyFullName": "LAND TRANSPORT AUTHORITY",
-      "appName": "MyTransport Singapore"
+      "appStoreUserRatingCount": 646,
+      "playStoreAverageUserRating": 3.3,
+      "appName": "MyTransport Singapore",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/mytransport-singapore/id480951210?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.lta.mytransport",
+      "playStoreUserRatingCount": 6098,
+      "agencyFullName": "LAND TRANSPORT AUTHORITY"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=School+of+Engineering,+Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.cameras360degree"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.cameras360degree",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "playStoreAverageUserRating": 0,
       "appName": "Camera 360 Degree - Ngee Ann"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/smart-nation/id1160765046?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/smart-nation/id1160765046?mt=8&uo=4",
       "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
+      "appStoreAverageUserRating": 0,
       "appName": "smARt Nation"
     },
     {
-      "playStore": {
-        "userRatingCount": 26,
-        "averageUserRating": 2.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.ndi.cp"
-      },
-      "appStore": {
-        "userRatingCount": 7,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/corppass-2fa-for-foreigners/id1340764537?mt=8&uo=4"
-      },
-      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
-      "appName": "CorpPass 2FA for Foreigners"
+      "appStoreUserRatingCount": 7,
+      "playStoreAverageUserRating": 2.4,
+      "appName": "CorpPass 2FA for Foreigners",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/corppass-2fa-for-foreigners/id1340764537?mt=8&uo=4",
+      "appStoreAverageUserRating": 5.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.ndi.cp",
+      "playStoreUserRatingCount": 26,
+      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.MedicalAbbr"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.MedicalAbbr",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "playStoreAverageUserRating": 0,
       "appName": "Medical Abbreviation"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/national-heritage-board/id601295061?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/ihuayu-i%E5%8D%8E%E8%AF%AD/id601295058?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/ihuayu-i%E5%8D%8E%E8%AF%AD/id601295058?mt=8&uo=4",
       "agencyFullName": "NATIONAL HERITAGE BOARD",
+      "appStoreAverageUserRating": 0,
       "appName": "iHuayu i\u534e\u8bed"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/building-construction-authority/id655408961?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/bca-green-mark/id695728730?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/bca-green-mark/id695728730?mt=8&uo=4",
       "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "BCA Green Mark"
     },
     {
-      "appStore": {
-        "userRatingCount": 9,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-manpower/id518542249?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/ergo-wsh/id556877197?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 9,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/ergo-wsh/id556877197?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF MANPOWER",
+      "appStoreAverageUserRating": 5.0,
       "appName": "ergo@WSH"
     },
     {
-      "playStore": {
-        "userRatingCount": 18,
-        "averageUserRating": 2.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=ngeeann.com.redcamp"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=ngeeann.com.redcamp",
+      "playStoreUserRatingCount": 18,
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "playStoreAverageUserRating": 2.8,
       "appName": "Red Camp"
     },
     {
-      "playStore": {
-        "userRatingCount": 14,
-        "averageUserRating": 4.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=State+Courts+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.statecourts.mhearing"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/state-courts-singapore/id981124570?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/justice-state-courts/id981124571?mt=8&uo=4"
-      },
-      "agencyFullName": "JUDICIARY, STATE COURTS",
-      "appName": "Justice@State Courts"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 4.1,
+      "appName": "Justice@State Courts",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/justice-state-courts/id981124571?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.statecourts.mhearing",
+      "playStoreUserRatingCount": 14,
+      "agencyFullName": "JUDICIARY, STATE COURTS"
     },
     {
-      "playStore": {
-        "userRatingCount": 3,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.Ultromo.SGCC"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.Ultromo.SGCC",
+      "playStoreUserRatingCount": 3,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 5.0,
       "appName": "SGCC2017 Ecopolis Adventure by Ultromo"
     },
     {
-      "playStore": {
-        "userRatingCount": 14,
-        "averageUserRating": 3.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=CPF+Board",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.cpf.mSub"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/central-provident-fund-board/id389277979?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cpf-e-submit-mobile/id1072317364?mt=8&uo=4"
-      },
-      "agencyFullName": "CENTRAL PROVIDENT FUND BOARD",
-      "appName": "CPF e-Submit@mobile"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 3.0,
+      "appName": "CPF e-Submit@mobile",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cpf-e-submit-mobile/id1072317364?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.cpf.mSub",
+      "playStoreUserRatingCount": 14,
+      "agencyFullName": "CENTRAL PROVIDENT FUND BOARD"
     },
     {
-      "playStore": {
-        "userRatingCount": 718,
-        "averageUserRating": 3.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ministry+of+National+Development+%28Singapore%29",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService"
-      },
-      "appStore": {
-        "userRatingCount": 128,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-national-development/id947274393?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/oneservice/id947274394?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF NATIONAL DEVELOPMENT",
-      "appName": "OneService"
+      "appStoreUserRatingCount": 128,
+      "playStoreAverageUserRating": 3.2,
+      "appName": "OneService",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/oneservice/id947274394?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService",
+      "playStoreUserRatingCount": 718,
+      "agencyFullName": "MINISTRY OF NATIONAL DEVELOPMENT"
     },
     {
-      "playStore": {
-        "userRatingCount": 21,
-        "averageUserRating": 3.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=SportSG",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.ahms.sg"
-      },
-      "appStore": {
-        "userRatingCount": 7,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-sports-council/id984473669?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/my-active-health/id1332547806?mt=8&uo=4"
-      },
-      "agencyFullName": "SPORT SINGAPORE",
-      "appName": "My Active Health"
+      "appStoreUserRatingCount": 7,
+      "playStoreAverageUserRating": 3.8,
+      "appName": "My Active Health",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/my-active-health/id1332547806?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.ahms.sg",
+      "playStoreUserRatingCount": 21,
+      "agencyFullName": "SPORT SINGAPORE"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/building-construction-authority/id655408961?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/corenet-e-info-ipad/id1093841935?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/corenet-e-info-ipad/id1093841935?mt=8&uo=4",
       "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "CORENET E-Info iPad"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/hf-buddy/id1081801399?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/hf-buddy/id1081801399?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF HEALTH",
+      "appStoreAverageUserRating": 0,
       "appName": "HF Buddy"
     },
     {
-      "playStore": {
-        "userRatingCount": 14,
-        "averageUserRating": 4.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.sp.msformulae"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-polytechnic/id410480187?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sp-ms-formulae-app/id488067689?mt=8&uo=4"
-      },
-      "agencyFullName": "SINGAPORE POLYTECHNIC",
-      "appName": "SP MS Formulae App"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 4.2,
+      "appName": "SP MS Formulae App",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sp-ms-formulae-app/id488067689?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.sp.msformulae",
+      "playStoreUserRatingCount": 14,
+      "agencyFullName": "SINGAPORE POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 15,
-        "averageUserRating": 2.7,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Health+Promotion+Board",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.snapandeat"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/health-promotion-board/id470823074?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/snap-eat/id1197314930?mt=8&uo=4"
-      },
-      "agencyFullName": "HEALTH PROMOTION BOARD",
-      "appName": "Snap&Eat"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 2.7,
+      "appName": "Snap&Eat",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/snap-eat/id1197314930?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.snapandeat",
+      "playStoreUserRatingCount": 15,
+      "agencyFullName": "HEALTH PROMOTION BOARD"
     },
     {
-      "playStore": {
-        "userRatingCount": 674,
-        "averageUserRating": 4.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.parking.streetsmart"
-      },
-      "appStore": {
-        "userRatingCount": 213,
-        "averageUserRating": 4.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/parking-sg/id1286602494?mt=8&uo=4"
-      },
-      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
-      "appName": "Parking.sg"
+      "appStoreUserRatingCount": 213,
+      "playStoreAverageUserRating": 4.2,
+      "appName": "Parking.sg",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/parking-sg/id1286602494?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.parking.streetsmart",
+      "playStoreUserRatingCount": 674,
+      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY"
     },
     {
-      "playStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 3.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Building+And+Construction+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.BCA.GreenMark.App"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.BCA.GreenMark.App",
+      "playStoreUserRatingCount": 5,
       "agencyFullName": "BUILDING AND CONSTRUCTION AUTHORITY",
+      "playStoreAverageUserRating": 3.6,
       "appName": "BCA Green Mark Android App"
     },
     {
-      "playStore": {
-        "userRatingCount": 59,
-        "averageUserRating": 3.1,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Urban+Redevelopment+Authority+%28URA%29",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.ura.mp.MP"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.ura.mp.MP",
+      "playStoreUserRatingCount": 59,
       "agencyFullName": "URBAN REDEVELOPMENT AUTHORITY",
+      "playStoreAverageUserRating": 3.1,
       "appName": "Master Plan 2014 \u2013 Singapore"
     },
     {
-      "playStore": {
-        "userRatingCount": 18,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.AgarAgar.Healthbot"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.AgarAgar.Healthbot",
+      "playStoreUserRatingCount": 18,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 5.0,
       "appName": "SGCC2018 Operation Health HealthBot"
     },
     {
-      "playStore": {
-        "userRatingCount": 98,
-        "averageUserRating": 4.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Civil+Defence+Force",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=org.sg.gov.scdf.android"
-      },
-      "appStore": {
-        "userRatingCount": 15,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-civil-defence-force/id983494390?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/myscdf/id630598023?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HOME AFFAIRS",
-      "appName": "mySCDF"
+      "appStoreUserRatingCount": 15,
+      "playStoreAverageUserRating": 4.2,
+      "appName": "mySCDF",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/myscdf/id630598023?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=org.sg.gov.scdf.android",
+      "playStoreUserRatingCount": 98,
+      "agencyFullName": "MINISTRY OF HOME AFFAIRS"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sdsc-2016/id1143392931?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sdsc-2016/id1143392931?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF HEALTH",
+      "appStoreAverageUserRating": 0,
       "appName": "SDSC 2016"
     },
     {
-      "playStore": {
-        "userRatingCount": 325,
-        "averageUserRating": 4.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=HCLINSYS+SG",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.vtgsoftwares.mufti"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.vtgsoftwares.mufti",
+      "playStoreUserRatingCount": 325,
       "agencyFullName": "MAJLIS UGAMA ISLAM, SINGAPURA",
+      "playStoreAverageUserRating": 4.2,
       "appName": "Muis : Office of the Mufti"
     },
     {
-      "playStore": {
-        "userRatingCount": 14,
-        "averageUserRating": 3.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Civil+Service+College+Singapore",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=cxs.cscollege.learn"
-      },
-      "appStore": {
-        "userRatingCount": 8,
-        "averageUserRating": 3.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/civil-service-college/id1251778080?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/learn-gov-sg/id1441520590?mt=8&uo=4"
-      },
-      "agencyFullName": "CIVIL SERVICE COLLEGE",
-      "appName": "LEARN.gov.sg"
+      "appStoreUserRatingCount": 8,
+      "playStoreAverageUserRating": 3.6,
+      "appName": "LEARN.gov.sg",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/learn-gov-sg/id1441520590?mt=8&uo=4",
+      "appStoreAverageUserRating": 3.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=cxs.cscollege.learn",
+      "playStoreUserRatingCount": 14,
+      "agencyFullName": "CIVIL SERVICE COLLEGE"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-land-authority/id1068341642?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sla360/id1152374814?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sla360/id1152374814?mt=8&uo=4",
       "agencyFullName": "SINGAPORE LAND AUTHORITY",
+      "appStoreAverageUserRating": 0,
       "appName": "SLA360"
     },
     {
-      "playStore": {
-        "userRatingCount": 254,
-        "averageUserRating": 3.7,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Land+Authority",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.onemap.android.onemap2"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.onemap.android.onemap2",
+      "playStoreUserRatingCount": 254,
       "agencyFullName": "SINGAPORE LAND AUTHORITY",
+      "playStoreAverageUserRating": 3.7,
       "appName": "OneMap"
     },
     {
-      "playStore": {
-        "userRatingCount": 39,
-        "averageUserRating": 3.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Nanyang+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.nyp.nypmobile"
-      },
-      "appStore": {
-        "userRatingCount": 14,
-        "averageUserRating": 4.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/nanyang-polytechnic/id370531175?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/nyp-mobile/id1361094079?mt=8&uo=4"
-      },
-      "agencyFullName": "NANYANG POLYTECHNIC",
-      "appName": "NYP Mobile"
+      "appStoreUserRatingCount": 14,
+      "playStoreAverageUserRating": 3.8,
+      "appName": "NYP Mobile",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/nyp-mobile/id1361094079?mt=8&uo=4",
+      "appStoreAverageUserRating": 4.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.nyp.nypmobile",
+      "playStoreUserRatingCount": 39,
+      "agencyFullName": "NANYANG POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 27970,
-        "averageUserRating": 3.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Health+Promotion+Board",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365"
-      },
-      "appStore": {
-        "userRatingCount": 4455,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/health-promotion-board/id470823074?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/healthy-365/id1040202154?mt=8&uo=4"
-      },
-      "agencyFullName": "HEALTH PROMOTION BOARD",
-      "appName": "Healthy 365"
+      "appStoreUserRatingCount": 4455,
+      "playStoreAverageUserRating": 3.8,
+      "appName": "Healthy 365",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/healthy-365/id1040202154?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365",
+      "playStoreUserRatingCount": 27970,
+      "agencyFullName": "HEALTH PROMOTION BOARD"
     },
     {
-      "playStore": {
-        "userRatingCount": 3,
-        "averageUserRating": 1.7,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.tech.employee365"
-      },
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/government-technology-agency/id1201157247?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/events-kiosk/id1289136064?mt=8&uo=4"
-      },
-      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
-      "appName": "Events Kiosk"
+      "appStoreUserRatingCount": 0,
+      "playStoreAverageUserRating": 1.7,
+      "appName": "Events Kiosk",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/events-kiosk/id1289136064?mt=8&uo=4",
+      "appStoreAverageUserRating": 0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.tech.employee365",
+      "playStoreUserRatingCount": 3,
+      "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/civil-aviation-authority-of-singapore/id1019486003?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/caas-dme-finder/id1091175818?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/caas-dme-finder/id1091175818?mt=8&uo=4",
       "agencyFullName": "CIVIL AVIATION AUTHORITY OF SINGAPORE",
+      "appStoreAverageUserRating": 0,
       "appName": "CAAS DME Finder"
     },
     {
-      "playStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Government+Technology+Agency",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=wsg.droid.govtech"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=wsg.droid.govtech",
+      "playStoreUserRatingCount": 0,
       "agencyFullName": "GOVERNMENT TECHNOLOGY AGENCY",
+      "playStoreAverageUserRating": 0,
       "appName": "Wireless@SGx App For WOG"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/ministry-of-education-singapore/id852187844?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/cambahan-kata/id1154382632?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/cambahan-kata/id1154382632?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF EDUCATION",
+      "appStoreAverageUserRating": 0,
       "appName": "Cambahan Kata"
     },
     {
-      "playStore": {
-        "userRatingCount": 25,
-        "averageUserRating": 3.7,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Ngee+Ann+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.staff"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.np.staff",
+      "playStoreUserRatingCount": 25,
       "agencyFullName": "NGEE ANN POLYTECHNIC",
+      "playStoreAverageUserRating": 3.7,
       "appName": "mStaff"
     },
     {
-      "appStore": {
-        "userRatingCount": 0,
-        "averageUserRating": 0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/asknlearn/id369556874?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/elearn-lms/id1144430645?mt=8&uo=4"
-      },
+      "appStoreUserRatingCount": 0,
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/elearn-lms/id1144430645?mt=8&uo=4",
       "agencyFullName": "MINISTRY OF HEALTH",
+      "appStoreAverageUserRating": 0,
       "appName": "eLearn LMS"
     },
     {
-      "playStore": {
-        "userRatingCount": 70,
-        "averageUserRating": 3.4,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Health+Promotion+Board",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub.track"
-      },
-      "appStore": {
-        "userRatingCount": 19,
-        "averageUserRating": 2.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/health-promotion-board/id470823074?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/healthhub-track/id1211580013?mt=8&uo=4"
-      },
-      "agencyFullName": "HEALTH PROMOTION BOARD",
-      "appName": "HealthHub Track"
+      "appStoreUserRatingCount": 19,
+      "playStoreAverageUserRating": 3.4,
+      "appName": "HealthHub Track",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/healthhub-track/id1211580013?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub.track",
+      "playStoreUserRatingCount": 70,
+      "agencyFullName": "HEALTH PROMOTION BOARD"
     },
     {
-      "playStore": {
-        "userRatingCount": 218,
-        "averageUserRating": 1.8,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.sp.spmobilev2"
-      },
-      "appStore": {
-        "userRatingCount": 97,
-        "averageUserRating": 1.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-polytechnic/id410480187?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/sp-mobile-v2/id1339445798?mt=8&uo=4"
-      },
-      "agencyFullName": "SINGAPORE POLYTECHNIC",
-      "appName": "SP Mobile v2"
+      "appStoreUserRatingCount": 97,
+      "playStoreAverageUserRating": 1.8,
+      "appName": "SP Mobile v2",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/sp-mobile-v2/id1339445798?mt=8&uo=4",
+      "appStoreAverageUserRating": 1.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=sg.edu.sp.spmobilev2",
+      "playStoreUserRatingCount": 218,
+      "agencyFullName": "SINGAPORE POLYTECHNIC"
     },
     {
-      "playStore": {
-        "userRatingCount": 22,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=NYP+SIDM+SGCC",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.teamhacked.pathopoiesis"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.teamhacked.pathopoiesis",
+      "playStoreUserRatingCount": 22,
       "agencyFullName": "NANYANG POLYTECHNIC",
+      "playStoreAverageUserRating": 5.0,
       "appName": "SGCC2018 Pathopoiesis"
     },
     {
-      "playStore": {
-        "userRatingCount": 4,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Singapore+Health+Services",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.singhealth.clinicalpearlsecg"
-      },
-      "appStore": {
-        "userRatingCount": 6,
-        "averageUserRating": 5.0,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/singapore-health-services-singhealth/id395642269?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/dr-ecg/id1437641000?mt=8&uo=4"
-      },
-      "agencyFullName": "MINISTRY OF HEALTH",
-      "appName": "Dr ECG"
+      "appStoreUserRatingCount": 6,
+      "playStoreAverageUserRating": 5.0,
+      "appName": "Dr ECG",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/dr-ecg/id1437641000?mt=8&uo=4",
+      "appStoreAverageUserRating": 5.0,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.singhealth.clinicalpearlsecg",
+      "playStoreUserRatingCount": 4,
+      "agencyFullName": "MINISTRY OF HEALTH"
     },
     {
-      "playStore": {
-        "userRatingCount": 5,
-        "averageUserRating": 4.6,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=Temasek+Polytechnic",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=com.TP.Mindworks"
-      },
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=com.TP.Mindworks",
+      "playStoreUserRatingCount": 5,
       "agencyFullName": "TEMASEK POLYTECHNIC",
+      "playStoreAverageUserRating": 4.6,
       "appName": "MindWorks"
     },
     {
-      "playStore": {
-        "userRatingCount": 240,
-        "averageUserRating": 3.2,
-        "developerViewUrl": "https://play.google.com/store/apps/developer?id=PageUp",
-        "appViewUrl": "https://play.google.com/store/apps/details?id=gov.career"
-      },
-      "appStore": {
-        "userRatingCount": 174,
-        "averageUserRating": 2.5,
-        "developerViewUrl": "https://itunes.apple.com/sg/developer/pageup-people/id619586803?uo=4",
-        "appViewUrl": "https://itunes.apple.com/sg/app/careers-gov/id372964124?mt=8&uo=4"
-      },
-      "agencyFullName": "PRIME MINISTER'S OFFICE",
-      "appName": "Careers@Gov"
+      "appStoreUserRatingCount": 174,
+      "playStoreAverageUserRating": 3.2,
+      "appName": "Careers@Gov",
+      "appStoreAppViewUrl": "https://itunes.apple.com/sg/app/careers-gov/id372964124?mt=8&uo=4",
+      "appStoreAverageUserRating": 2.5,
+      "playStoreAppViewUrl": "https://play.google.com/store/apps/details?id=gov.career",
+      "playStoreUserRatingCount": 240,
+      "agencyFullName": "PRIME MINISTER'S OFFICE"
     }
   ]
 }

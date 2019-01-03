@@ -27,12 +27,9 @@ def parse_app_store_apps():
 
         item = {
             'agencyFullName': obj['agencyFullName'],
-            'appStore': {
-                'appViewUrl': obj['appViewUrl'],
-                'developerViewUrl': obj['developerViewUrl'],
-                'averageUserRating': obj['averageUserRating'],
-                'userRatingCount': obj['userRatingCount']
-            }
+            'appStoreAppViewUrl': obj['appViewUrl'],
+            'appStoreAverageUserRating': obj['averageUserRating'],
+            'appStoreUserRatingCount': obj['userRatingCount']
         }
 
         merged_dict[app_name] = item
@@ -47,12 +44,9 @@ def parse_play_store_apps():
 
         item = {
             'agencyFullName': obj['agencyFullName'],
-            'playStore': {
-                'appViewUrl': obj['appViewUrl'],
-                'developerViewUrl': obj['developerViewUrl'],
-                'averageUserRating': obj['averageUserRating'],
-                'userRatingCount': obj['userRatingCount']
-            }
+            'playStoreAppViewUrl': obj['appViewUrl'],
+            'playStoreAverageUserRating': obj['averageUserRating'],
+            'playStoreUserRatingCount': obj['userRatingCount']
         }
 
         if app_name in merged_dict:
