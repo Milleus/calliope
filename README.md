@@ -21,10 +21,6 @@ Based on the whitelist, we can now find all the mobile applications that belong 
 
 ### App Store
 
-- `python app_store/get_all_dev_ids.py`
-
-  Calls App Store API with all keywords in keywords.data and returns a list of developer ids. Results are stored in app_store/data/all_dev_ids.json. This can be modified to return other app related information.
-
 - `python app_store/get_new_dev_ids.py`
 
   Calls App Store API with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in app_store/data/unverified.json.
@@ -34,10 +30,6 @@ Based on the whitelist, we can now find all the mobile applications that belong 
   Calls App Store API with developer/app ids in whitelist and returns a collection of mobile application data. Results are stored in app_store/data/apps_data.json.
 
 ### Play Store
-
-- `python play_store/get_all_dev_ids.py`
-
-  Calls Play Store search with all keywords in keywords.data and returns a list of developer ids. Results are stored in play_store/data/all_dev_ids.json. This can be modified to return other app related information.
 
 - `python app_store/get_new_dev_ids.py`
 
