@@ -41,7 +41,7 @@ Based on the whitelist, we can now find all the mobile applications that belong 
 
 ### Merging Data
 
-- `python merge.py`
+- `python merge_apps_data.py`
 
   Combine apps_data.json from app store and play store, and return a merged collection of mobile application data. Results are stored in merged_apps_data.json.
 
