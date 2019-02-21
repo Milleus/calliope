@@ -1,10 +1,10 @@
-# Scylla
+# Calliope
 
-Scylla retrieves a list of mobile application information from App Store and Play Store for further analysis. Information from App Store is through use of their search API, information from Play Store is crawling their website.
+Calliope retrieves a list of mobile application information from App Store and Play Store for further analysis. Information from App Store is through use of their search API, information from Play Store is crawling their website.
 
 ## Use Case
 
-Scylla was created with the goal of retrieving information of all Singapore government owned mobile applications, without mobile application owners filling in any information - everything should be automagical. We want to capture a specific list of new and existing mobile applications.
+Calliope was created with the goal of retrieving information of all Singapore government owned mobile applications, without mobile application owners filling in any information - everything should be automagical. We want to capture a specific list of new and existing mobile applications.
 
 ## Strategy
 
