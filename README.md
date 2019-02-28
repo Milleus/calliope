@@ -23,7 +23,7 @@ Based on the whitelist, we can now find all the mobile applications that belong 
 
 - `python app_store/get_new_dev_ids.py`
 
-  Calls App Store API with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in app_store/data/unverified.json.
+  Calls App Store API with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in app_store/data/new_dev_ids.json.
 
 - `python app_store/get_apps_data.py`
 
@@ -33,7 +33,7 @@ Based on the whitelist, we can now find all the mobile applications that belong 
 
 - `python app_store/get_new_dev_ids.py`
 
-  Calls Play Store search with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in play_store/data/unverified.json.
+  Calls Play Store search with all keywords in keywords.data and returns a list of new developer ids (not in whitelist or blacklist). Results are stored in play_store/data/new_dev_ids.json.
 
 - `scrapy crawl get_apps_data`
 
@@ -43,7 +43,7 @@ Based on the whitelist, we can now find all the mobile applications that belong 
 
 - `python merge_apps_data.py`
 
-  Combine apps_data.json from app store and play store, and return a merged collection of mobile application data. Results are stored in merged_apps_data.json.
+  Combine apps_data.json from app store and play store, and return a merged collection of mobile application data. Mobile applications are merged based on app name. Results are stored in merged_apps_data.json.
 
 ## Resources
 
