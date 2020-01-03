@@ -1,16 +1,25 @@
 # Calliope
 
-Calliope retrieves a list of mobile application information from App Store and Play Store for further analysis. Information from App Store is through use of their search API, information from Play Store is crawling their website.
+Calliope crawls and retrieves Singapore Government mobile applications data from both App Store and Play Store. Written in Python, this is a quick prototype on data consolidation.
 
 ## Use Case
 
-Calliope was created with the goal of retrieving information of all Singapore government owned mobile applications, without mobile application owners filling in any information - everything should be automagical. We want to capture a specific list of new and existing mobile applications.
+Every X period, agencies/ministries have to report their app numbers for assessment. This crawler automates that process (at least for information that is publicly available).
+
+Hopefully, with a smoother process to get high level timely information on all apps, certain change could be triggered.
+
+1. Allow higher management to determine which apps should be improved, which apps should be removed.
+2. Allow agencies/ministries to compare each other's apps, with hopes of triggering further actions such as knowledge sharing or consolidation of apps which provide similar services.
+
+Ultimately, I really do hope that this could trigger some kind of change that will improve the digital service offerings that the government provides to its citizens.
 
 ## Strategy
 
-We do a brute force search based on 100+ keywords to both stores (see keywords.data) to retrieve a list of developer ids. We combine query results and filter out duplicates. Then, we go through the list to "verify" the developer ids that we know belong to the Singapore government and put them on a whitelist, and the rest to a blacklist.
+Keep in mind that this is a prototype, this strategy is not ideal.
 
-Based on the whitelist, we can now find all the mobile applications that belong to the Singapore government. We can run an automated job every X duration (weekly, fortnightly or monthly) to brute force search both stores again and flag out new developer ids found, and repeat the same process of putting them in the correct list.
+1. Brute force search based on keywords to retrieve a list of developer ids. (keywords file)
+2. Manually "verify" the list of developer ids to determine which belongs to / does not belong to the Singapore government (thus the whitelist and blacklist file).
+3. Crawl for information of apps that belong to verified developer ids.
 
 ## Installation Steps
 
