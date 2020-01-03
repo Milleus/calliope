@@ -220,6 +220,10 @@
     "gov.career": {
       "agencyFullName": "PRIME MINISTER'S OFFICE",
       "url": "https://play.google.com/store/apps/details?id=gov.career"
+    },
+    "com.aventri.siew": {
+      "agencyFullName": "ENERGY MARKET AUTHORITY",
+      "url": "https://play.google.com/store/apps/developer?id=Occam+Lab"
     }
   }
 }
