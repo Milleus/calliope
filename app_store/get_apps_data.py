@@ -23,8 +23,8 @@ def main():
 
     wl_copy = copy.deepcopy(whitelist)
     wl_apps = wl_copy.pop('whitelistedApps', None)
-    app_ids = wl_apps.keys() if wl_apps is not None else []
-    dev_ids = wl_copy.keys()
+    app_ids = list(wl_apps.keys()) if wl_apps is not None else []
+    dev_ids = list(wl_copy.keys())
 
     ids = ','.join(dev_ids + app_ids)
     p = 'id=%s&country=SG&entity=software' % ids
