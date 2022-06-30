@@ -61,7 +61,7 @@ def closed():
         'totalCount': 0,
     }
 
-    for k, v in merged_dict.iteritems():
+    for k, v in merged_dict.items():
         item = {
             'appName': k,
         }
